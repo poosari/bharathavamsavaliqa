@@ -1,0 +1,24 @@
+# Java/Maven
+target/
+*.jar
+*.class
+pom.xml.tag
+pom.xml.releaseBackup
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Node/Frontend
+node_modules/
+npm-debug.log
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+nohup.out
