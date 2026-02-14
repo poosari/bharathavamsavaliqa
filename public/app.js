@@ -145,17 +145,25 @@ function applyFilters() {
 
     let filtered = [...allQuestions];
 
+    // Log filter values for debugging
+    console.log(`🔍 Applying filters - Category: "${category}", Difficulty: "${difficulty}"`);
+
     if (category) {
         filtered = filtered.filter(q => q.category === category);
+        console.log(`  After category filter: ${filtered.length} questions`);
     }
 
     if (difficulty) {
         filtered = filtered.filter(q => q.difficulty === difficulty);
+        console.log(`  After difficulty filter: ${filtered.length} questions`);
     }
 
     filteredQuestions = filtered;
     displayQuestions(filteredQuestions);
     searchInput.value = '';
+
+    // Log final result
+    console.log(`✅ Filter complete: ${filteredQuestions.length} questions found`);
 }
 
 // Reset filters
@@ -178,7 +186,18 @@ function clearFilters() {
 // Display questions
 function displayQuestions(questions) {
     if (!questions || questions.length === 0) {
-        questionsContainer.innerHTML = '<div class="no-results"><p>No questions found</p></div>';
+        const category = categorySelect.value || 'all categories';
+        const difficulty = difficultySelect.value || 'all levels';
+        const message = `
+            <div class="no-results">
+                <p>❌ No questions found</p>
+                <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
+                    Try adjusting your filters: ${category} + ${difficulty}
+                </p>
+                <button class="btn btn-secondary" onclick="resetFilters()" style="margin-top: 15px;">Reset Filters</button>
+            </div>
+        `;
+        questionsContainer.innerHTML = message;
         return;
     }
 
