@@ -2002,14 +2002,8 @@
       {"id": 599, "question": "Who built the Angkor Wat temple?", "answer": "Suryavarman II."},
       {"id": 600, "question": "Who was the Pandyan King who ruled during the First Great Deluge?", "answer": "Oli Sembiyan."}
     ]
-  }
-]
-```
+  },
 
-### **Part 3: Questions 601–1008**
-
-```json
-[
   {
     "category": "XLI. Temples of Chola Nadu (North of Kaveri)",
     "questions": [
