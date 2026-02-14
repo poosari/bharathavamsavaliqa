@@ -12,55 +12,55 @@
                 "id": 2,
                 "question": "What specific river, according to the text, originated from the Meru Mountain in Kumari Kandam and flowed eastward into the ocean?",
                 "answer": "The Pahruli River.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 3,
                 "question": "Which Chola King is credited with establishing the \"Solar Dynasty\" (So-La) after migrating from the submerged Kumari Kandam to the \"Mina Desam\" (Egypt/Middle East)?",
                 "answer": "Oli Sembiyan (also known as Jayamanjunan).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 4,
                 "question": "According to the text, the Vindhya Mountains were originally known by which name connected to a Chola King?",
                 "answer": "Nerivetta (associated with King Nerivettan).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 5,
                 "question": "Which ancient continent (Dwipa) corresponds to the region of modern-day Greece and Turkey, and why was it named so?",
                 "answer": "Krauncha Dwipa (Bird Island/Heron Island), named because of the abundance of birds like herons and cranes.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 6,
                 "question": "Who ruled the \"Monkey Land\" and \"Tiger Land\" in the Salmala Dwipa before the Great Deluge forced them to migrate to India?",
                 "answer": "The Vanaras (Monkey clan) and the ancestors of the Cholas (Tiger flag).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 7,
                 "question": "What geological explanation does the text give for the \"Seven Seas\" mentioned in Puranas (Milk Ocean, Curd Ocean, etc.)?",
                 "answer": "They were named after the color or nature of the water (White river/Pale river), not literally containing milk or curd.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 8,
                 "question": "Which Pandyan King excavated the Pahruli River to irrigate the Peruvala Nadu?",
                 "answer": "Pandyan Nediyon.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 9,
                 "question": "According to the text\u2019s chronology, when did the \"First Great Deluge\" occur that submerged the Peruvian/Kumari lands?",
                 "answer": "Approximately 13,900 B.C.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 10,
                 "question": "Which mountain range does the text identify as the \"Meru Mountain,\" explicitly stating it is not the Himalayas?",
                 "answer": "A mountain range that existed in the center of the Indian Ocean (Kumari Kandam) with 49 peaks.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             }
         ]
     },
@@ -71,61 +71,61 @@
                 "id": 11,
                 "question": "Who were the specific patron deities and sages of the First Sangam (Thalai Sangam)?",
                 "answer": "Lord Shiva (Irayanar), Murugan, and Agastya.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 12,
                 "question": "What was the capital city of the Middle Sangam (Idai Sangam)?",
                 "answer": "Kapadapuram.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 13,
                 "question": "Which Pandyan King presided over the Last Sangam (Kadai Sangam)?",
                 "answer": "Mudathirumaran III.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 14,
                 "question": "How many years did the Middle Sangam last, and how many poets were part of it?",
                 "answer": "It lasted 3,700 years with 3,700 poets (including Agastya and Tolkappiyar).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 15,
                 "question": "Which rare grammar text served as the standard during the First Sangam?",
                 "answer": "Agastyam.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 16,
                 "question": "Which Pandyan King was cursed by Agastya to become an elephant (Indradyumna) and was later redeemed by Vishnu?",
                 "answer": "Manojava Pandyan (also called Parameswara Pandyan).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 17,
                 "question": "What literary work mentions that 89 Pandyan Kings patronized the First Sangam?",
                 "answer": "The commentary by Nakkirar on Irayanar Akapporul.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 18,
                 "question": "Which Pandyan King ruled when the Second Sangam's capital, Kapadapuram, was submerged?",
                 "answer": "Mudathirumaran (who then moved to North Madurai).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 19,
                 "question": "Who were the \"Seven Patrons\" (Kadai Ezhu Vallalgal) of the Last Sangam era?",
                 "answer": "Pari, Ori, Kari, Adhiyaman, Began, Ay, and Nalli.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 20,
                 "question": "Which text was authorized by the Middle Sangam and remains the oldest extant Tamil grammar?",
                 "answer": "Tolkappiyam.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -142,31 +142,31 @@
                 "id": 22,
                 "question": "Which Chola King was the contemporary of Lord Rama and participated in the events of that era?",
                 "answer": "Kambu Kandan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 23,
                 "question": "Who was the Pandyan King reigning during the time of the Ramayana?",
                 "answer": "Anantha Guna Pandyan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 24,
                 "question": "What relation was the demon king Ravana to the god of wealth, Kubera?",
                 "answer": "They were half-brothers (sons of Sage Visravas).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 25,
                 "question": "Which Chera King is said to have defeated Ravana when he tried to enter the Tamil country?",
                 "answer": "Mandaran Cheral (or simply the Chera King at the time).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 26,
                 "question": "According to the text, which Sage gave the \"Aditya Hridayam\" mantra to Rama, and where did this happen?",
                 "answer": "Agastya, during Rama's stay in the Tamil lands/Dandakaranya.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 27,
@@ -178,7 +178,7 @@
                 "id": 28,
                 "question": "Which Chola King married the daughter of King Vikukshi of the Solar Dynasty?",
                 "answer": "Ulagalitha Cholan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 29,
@@ -190,37 +190,37 @@
                 "id": 30,
                 "question": "Who founded the city of Mathura after killing the Asura Lavana?",
                 "answer": "Shatrughna (Rama\u2019s brother).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 31,
                 "question": "What was the name of the Chola King who gave his own flesh to save a dove, linking the Chola lineage to the \"Sibi\" legend?",
                 "answer": "Sibi Chakravarthy (Sembiyan).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 32,
                 "question": "Which ancient sage is claimed to be the ancestor of the Cholas, Pandyas, and Cheras via his marriage to a Vidarbha princess?",
                 "answer": "Agastya.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 33,
                 "question": "Who was the wife of the sage Rishyasringa, who performed the Putra Kameshti Yaga for Dasharatha?",
                 "answer": "Shanta (Dasharatha's daughter).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 34,
                 "question": "Which Solar Dynasty king was cursed to become a \"Chandala\" (outcast) and had a new heaven created for him by Viswamitra?",
                 "answer": "Trisanku (Satyavrata).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 35,
                 "question": "Who was the mother of Ravana?",
                 "answer": "Kaikasi (daughter of the Asura Sumali).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -243,79 +243,79 @@
                 "id": 38,
                 "question": "Which Chera King is famous for feeding both the Pandava and Kaurava armies during the 18-day war?",
                 "answer": "Perunchotru Uthiyan Cheralathan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 39,
                 "question": "Who was the Pandyan King during the Mahabharata War who fought on the side of the Pandavas?",
                 "answer": "Raja Kunjaran (Mudathirumaran III).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 40,
                 "question": "Which Chola King participated in the Mahabharata War?",
                 "answer": "Kumarankusan (or Sumana Cholan).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 41,
                 "question": "Who wrote the Tamil version of the Mahabharata during the Sangam age?",
                 "answer": "Perundevanar (Bharatham Padiya Perundevanar).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 42,
                 "question": "What happened to the city of Dwaraka 36 years after the Mahabharata War?",
                 "answer": "It was submerged by the sea due to a natural calamity/tsunami.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 43,
                 "question": "Who was the only son of Dhritarashtra to survive the war (fighting for the Pandavas)?",
                 "answer": "Yuyutsu.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 44,
                 "question": "Who was the Naga princess who married Arjuna and bore the son Iravan?",
                 "answer": "Ulupi.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 45,
                 "question": "What is the text's claim regarding the complexion of Veda Vyasa and Krishna?",
                 "answer": "They were black (Dravidian complexion), challenging the \"white Aryan\" theory.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 46,
                 "question": "Who succeeded the Pandavas to the throne of Hastinapura?",
                 "answer": "Parikshit (grandson of Arjuna).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 47,
                 "question": "Which Rishi cursed King Parikshit to die by snakebite?",
                 "answer": "Srinki (son of Sage Samika).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 48,
                 "question": "Who performed the \"Sarpa Yaga\" (Snake Sacrifice) to avenge Parikshit's death?",
                 "answer": "Janamejaya.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 49,
                 "question": "According to the text, where did Ashwatthama migrate after the war?",
                 "answer": "To the Arabian/Iraq region (specifically Kufa), linking him to later Semitic lineages.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 50,
                 "question": "Which Chola King is said to have married Subhadra (Krishna\u2019s sister) in a previous birth legend mentioned in the text?",
                 "answer": "Manojava Pandyan (Note: Text attributes this to a Pandyan in the context of Thiruthangal).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             }
         ]
     },
@@ -332,25 +332,25 @@
                 "id": 52,
                 "question": "According to the text, where did Jesus Christ (Iso) spend his \"lost years\" studying?",
                 "answer": "At Nalanda University (Buddhism) and in Mylapore/Chennai (Jainism/Saivism).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 53,
                 "question": "Who was the Tamil Siddha said to be a descendant of Ashwatthama living in Iraq?",
                 "answer": "Siddhan Bhoga Dathan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 54,
                 "question": "How is Siddhan Bhoga Dathan connected to the history of Islam in the text?",
                 "answer": "He protected the family of Hussein (grandson of Prophet Muhammad) during the conflict at Karbala.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 55,
                 "question": "Which Hindu saint is claimed to have died fighting alongside Hussein?",
                 "answer": "A saint named \"Val\".",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 56,
@@ -362,19 +362,19 @@
                 "id": 57,
                 "question": "Who was the 24th Tirthankara of Jainism and which Magadha King was his contemporary?",
                 "answer": "Mahavira (598\u2013527 B.C.); King Kunikan (Ajatasatru).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 58,
                 "question": "Which Pandyan King was converted from Jainism to Saivism by Sambandar?",
                 "answer": "Koon Pandyan (Ninra Seer Nedumaran).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 59,
                 "question": "According to the text, where did Adi Sankara establish his Mutts?",
                 "answer": "Kanchipuram, Sringeri, Dwaraka, Badri, and Puri.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 60,
@@ -386,13 +386,13 @@
                 "id": 61,
                 "question": "Who was the Buddhist monk from Kanchipuram who spread Buddhism to China?",
                 "answer": "Bodhidharma (or Dharmapala).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 62,
                 "question": "Which Tamil epic is explicitly stated to be a Buddhist work?",
                 "answer": "Kundalakesi (or Manimekalai).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 63,
@@ -404,19 +404,19 @@
                 "id": 64,
                 "question": "Who founded the Visishtadvaita philosophy?",
                 "answer": "Ramanujar (born 1017 A.D.).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 65,
                 "question": "Which Chola King persecuted Ramanujar, forcing him to flee to Melkote?",
                 "answer": "Kulothunga Chola I (Krimikanda Chola).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 66,
                 "question": "Who founded the Dvaita philosophy?",
                 "answer": "Madhvacharya (Ananda Theertha).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 67,
@@ -434,13 +434,13 @@
                 "id": 69,
                 "question": "According to the text, where did Jesus die?",
                 "answer": "In an ashram near Kashmir.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 70,
                 "question": "Who was the guru of Guru Nanak (founder of Sikhism)?",
                 "answer": "He had no human guru but preached a path of love uniting Hindus and Muslims.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             }
         ]
     },
@@ -457,43 +457,43 @@
                 "id": 72,
                 "question": "What specific astronomical fact did Aryabhatta state about the Earth centuries before Galileo?",
                 "answer": "That the Earth rotates on its axis and orbits the Sun.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 73,
                 "question": "Who discovered the concept of Zero according to the text?",
                 "answer": "Pingala (200 B.C.).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 74,
                 "question": "Who is considered the father of Siddha Medicine?",
                 "answer": "Agastya (Agasthiyar).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 75,
                 "question": "How many diseases are classified in the Tamil Siddha medical system?",
                 "answer": "4,448 diseases.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 76,
                 "question": "Which Tamil poetess is credited with knowledge of Atomic Science (Anu)?",
                 "answer": "Avvaiyar (citing her verse on splitting the atom).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 77,
                 "question": "What ancient text is cited as containing knowledge about electricity and batteries?",
                 "answer": "Agastya Samhita.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 78,
                 "question": "Who wrote the Vimaana Nool (Book on Aircraft/Space Travel)?",
                 "answer": "Sage Bharadwaja.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 79,
@@ -511,7 +511,7 @@
                 "id": 81,
                 "question": "What represents the speed of light in the text's Vedic calculations (by Sayana)?",
                 "answer": "2,202 Yojanas in half a Nimesha.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 82,
@@ -523,19 +523,19 @@
                 "id": 83,
                 "question": "What is the Tamil name for the planet Saturn?",
                 "answer": "Kari.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 84,
                 "question": "What is the Tamil name for the planet Jupiter?",
                 "answer": "Viyazhan.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 85,
                 "question": "Who performed the first cataract surgery according to Indian history?",
                 "answer": "Sushruta.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -552,43 +552,43 @@
                 "id": 87,
                 "question": "Who established the Salivahana Era (Saka Era) in 78 A.D.?",
                 "answer": "Salivahana (a potter's son who became King).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 88,
                 "question": "Who were the \"Nootruvar Kannar\" mentioned in Tamil literature?",
                 "answer": "The Satakarni Kings (Satavahanas) of Andhra.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 89,
                 "question": "Who built the Big Temple (Brihadeeswarar) in Thanjavur?",
                 "answer": "Raja Raja Cholan I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 90,
                 "question": "Which Chola King conquered the Ganges and assumed the title \"Gangai Konda Cholan\"?",
                 "answer": "Rajendra Chola.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 91,
                 "question": "Who founded the Vijayanagara Empire to protect Hinduism?",
                 "answer": "Harihara and Bukka, guided by Sage Vidyaranya.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 92,
                 "question": "Who was the famous Nayak King of Madurai known for his palace?",
                 "answer": "Thirumalai Nayak.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 93,
                 "question": "Who was the Maratha King who ruled Thanjavur and was a scholar?",
                 "answer": "Serfoji II.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 94,
@@ -606,7 +606,7 @@
                 "id": 96,
                 "question": "Who was the Brahmin minister of Chandragupta Maurya who wrote the Arthashastra?",
                 "answer": "Chanakya (Vishnugupta).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 97,
@@ -624,7 +624,7 @@
                 "id": 99,
                 "question": "Which Pallava King was converted from Jainism to Saivism by Appar?",
                 "answer": "Mahendravarman I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 100,
@@ -647,7 +647,7 @@
                 "id": 102,
                 "question": "How many couplets does the Thirukkural contain?",
                 "answer": "1,330.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 103,
@@ -719,19 +719,19 @@
                 "id": 114,
                 "question": "What is the \"Sangam Plank\" (Sanga Palagai)?",
                 "answer": "A miraculous plank in the Golden Lotus Tank of Madurai that judged the worthiness of manuscripts.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 115,
                 "question": "Who was the court poet of the Chola King Kulothunga II (Anapaya)?",
                 "answer": "Ottakoothar (rival of Kambar).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 116,
                 "question": "Which poetess lived for a very long time by eating a \"Nelli\" (Gooseberry) fruit?",
                 "answer": "Avvaiyar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 117,
@@ -755,7 +755,7 @@
                 "id": 120,
                 "question": "Which Chola King recovered the lost Thevaram manuscripts?",
                 "answer": "Raja Raja Cholan (with Nambiyandar Nambi).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -766,19 +766,19 @@
                 "id": 121,
                 "question": "What script does the author propose for the Tamil language to foster integration?",
                 "answer": "The Roman Script.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 122,
                 "question": "What connects the \"Mayan\" civilization to India according to the text?",
                 "answer": "They are claimed to be descendants of the Asura architect Maya (Mayan).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 123,
                 "question": "Who created the Telugu language according to the text?",
                 "answer": "Kanniva Muni.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 124,
@@ -796,19 +796,19 @@
                 "id": 126,
                 "question": "Which Tamil King is said to have sent a delegation to Augustus Caesar?",
                 "answer": "A Pandyan King (c. 20 B.C.).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 127,
                 "question": "What is the origin of the word \"Dravidian\" according to the text?",
                 "answer": "From \"Thiravidar\", meaning those who ran/migrated (from the deluge).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 128,
                 "question": "Who was the \"Negro\" King listed as a patron of the Tamil Sangam?",
                 "answer": "Niruthi.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 129,
@@ -820,7 +820,7 @@
                 "id": 130,
                 "question": "Which Siddha is said to have entered the body of a shepherd named Moolan?",
                 "answer": "Thirumoolar.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 131,
@@ -832,7 +832,7 @@
                 "id": 132,
                 "question": "Who cured the \"Hunchback Pandyan\" (Koon Pandyan)?",
                 "answer": "Sambandar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 133,
@@ -844,43 +844,43 @@
                 "id": 134,
                 "question": "What is the significance of \"Jyothi\" in Ramalinga Vallalar's philosophy?",
                 "answer": "God is Light (Arutperunjyothi).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 135,
                 "question": "Who wrote the Abhidhamma Pitaka?",
                 "answer": "It is part of the Buddhist Tripitaka (philosophical texts).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 136,
                 "question": "Who was the Chola King who invaded Kalinga, celebrated in Kalingattuparani?",
                 "answer": "Kulothunga Chola I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 137,
                 "question": "Who destroyed the \"Hanging Forts\" (Thoongu Eyil)?",
                 "answer": "The Chola King Thodithot Sembiyan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 138,
                 "question": "What festival's cessation caused the destruction of Poompuhar?",
                 "answer": "The Indra Vizha.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 139,
                 "question": "Who was the Greek King mentioned as \"Yavana\" in Indian texts?",
                 "answer": "Referring to Ionians (Greeks), specifically Alexander or later Indo-Greek rulers.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 140,
                 "question": "Which Tamil King ruled Egypt according to the text?",
                 "answer": "Kings with the title \"Kari\" (related to the Chera/Velir lineage).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             }
         ]
     },
@@ -921,19 +921,19 @@
                 "id": 146,
                 "question": "Who was the greatest ruler of the Gupta Dynasty?",
                 "answer": "Samudra Gupta (or Chandragupta II).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 147,
                 "question": "Who was the King of Kalinga defeated by Ashoka?",
                 "answer": "(Not named, but the Kalinga War is the event).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 148,
                 "question": "Who was the Pandyan King who standardized land measurement (Nilan Tharu)?",
                 "answer": "Nilan Tharu Thiruvil Pandyan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 149,
@@ -945,13 +945,13 @@
                 "id": 150,
                 "question": "Who was the Chola King known as \"Manuneethi Cholan\" for executing his son to provide justice to a cow?",
                 "answer": "Ellalan (or Manuneethi Cholan).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 151,
                 "question": "Who was the Pallava King who was a great wrestler (Mamalla)?",
                 "answer": "Narasimhavarman I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 152,
@@ -963,7 +963,7 @@
                 "id": 153,
                 "question": "Who was the Rashtrakuta King who built the Ellora Kailasanatha temple?",
                 "answer": "Krishna I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 154,
@@ -975,37 +975,37 @@
                 "id": 155,
                 "question": "Who was the famous Kakatiya King (or Queen)?",
                 "answer": "Pratapa Rudra (or Rudrama Devi).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 156,
                 "question": "Who was the Chola King who conquered Kadaram (Malaysia)?",
                 "answer": "Rajendra Chola.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 157,
                 "question": "Who built the Angkor Wat temple?",
                 "answer": "Suryavarman II (of the Khmer/Indian lineage).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 158,
                 "question": "Who was the Pandyan King who ruled during the First Great Deluge?",
                 "answer": "Oli Sembiyan (or early Pandyas like Jayamakirthi).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 159,
                 "question": "Who was the Pandyan King who ruled during the Second Great Deluge?",
                 "answer": "Kapadapuram Pandyas.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 160,
                 "question": "Who was the Pandyan King who ruled during the Third Great Deluge (Poompuhar)?",
                 "answer": "Mudathirumaran III (or contemporaries).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             }
         ]
     },
@@ -1016,7 +1016,7 @@
                 "id": 161,
                 "question": "How many Shakti Peethams are there?",
                 "answer": "51 (or 108 depending on the tradition cited).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 162,
@@ -1034,19 +1034,19 @@
                 "id": 164,
                 "question": "Where is the Vishalakshi Shakti Peetham located?",
                 "answer": "Varanasi (Kasi).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 165,
                 "question": "Which temple is known as \"Thillai\"?",
                 "answer": "Chidambaram (Nataraja Temple).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 166,
                 "question": "Which temple is known as \"Thiruvarangam\"?",
                 "answer": "Srirangam (Ranganathaswamy Temple).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 167,
@@ -1058,49 +1058,49 @@
                 "id": 168,
                 "question": "Which temple is associated with the Element of Water (Appu Lingam)?",
                 "answer": "Thiruvanaikaval (Jambukeshwarar).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 169,
                 "question": "Which temple is associated with the Element of Fire (Agni Lingam)?",
                 "answer": "Thiruvannamalai.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 170,
                 "question": "Which temple is associated with the Element of Air (Vayu Lingam)?",
                 "answer": "Srikalahasti.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 171,
                 "question": "Which temple is associated with the Element of Earth (Prithvi Lingam)?",
                 "answer": "Kanchipuram (Ekambareswarar).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 172,
                 "question": "Which temple is associated with the Element of Sky (Akasha Lingam)?",
                 "answer": "Chidambaram.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 173,
                 "question": "How many Divya Desams (Holy Abodes of Vishnu) are there?",
                 "answer": "108.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 174,
                 "question": "How many Padal Petra Sthalam (Shiva temples sung by Nayanmars) are there?",
                 "answer": "276 (approx).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 175,
                 "question": "Which temple is the First Arupadaiveedu (Abode of Murugan)?",
                 "answer": "Thiruparankundram.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 176,
@@ -1112,7 +1112,7 @@
                 "id": 177,
                 "question": "Which temple is the Third Arupadaiveedu?",
                 "answer": "Palani (Thiruvavinankudi).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 178,
@@ -1141,7 +1141,7 @@
                 "id": 181,
                 "question": "What is the ancient unit of time \"Nazhigai\" equal to in minutes?",
                 "answer": "24 minutes.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 182,
@@ -1153,7 +1153,7 @@
                 "id": 183,
                 "question": "How many years constitute Kali Yuga?",
                 "answer": "432,000 years.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 184,
@@ -1189,25 +1189,25 @@
                 "id": 189,
                 "question": "Which star is associated with Arundhati?",
                 "answer": "Alcor (the companion star to Mizar in the Big Dipper/Saptarishi).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 190,
                 "question": "Who are the Sapta Rishis (Seven Sages)?",
                 "answer": "Vasishta, Kashyapa, Atri, Jamadagni, Gautama, Vishvamitra, Bharadwaja.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 191,
                 "question": "Who is the \"Chiranjeevi\" (Immortal) from the Ramayana?",
                 "answer": "Hanuman (and Vibhishana).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 192,
                 "question": "Who is the \"Chiranjeevi\" from the Mahabharata?",
                 "answer": "Ashwatthama (and Vyasa).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 193,
@@ -1243,7 +1243,7 @@
                 "id": 198,
                 "question": "Where did Chandragupta Maurya die?",
                 "answer": "Sravanabelagola (Karnataka).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 199,
@@ -1290,7 +1290,7 @@
                 "id": 205,
                 "question": "Who was the mother of the Pandavas?",
                 "answer": "Kunti (and Madri).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 206,
@@ -1332,7 +1332,7 @@
                 "id": 212,
                 "question": "Who was the father of Karna?",
                 "answer": "Surya (The Sun God).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 213,
@@ -1392,7 +1392,7 @@
                 "id": 222,
                 "question": "Who was the family priest (Kula Guru) of the Pandavas?",
                 "answer": "Dhaumya.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 223,
@@ -1422,7 +1422,7 @@
                 "id": 227,
                 "question": "Which King gave his name to the country Bharata?",
                 "answer": "Bharata (son of Dushyanta and Shakuntala).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 228,
@@ -1440,7 +1440,7 @@
                 "id": 230,
                 "question": "Who was the mother of Shakuntala?",
                 "answer": "Menaka (the celestial nymph).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -1451,37 +1451,37 @@
                 "id": 231,
                 "question": "Which Pandyan King had the title \"Palyaga Salai\" (One with many sacrificial halls)?",
                 "answer": "Mudukudumi Peru Vazhuthi.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 232,
                 "question": "Which Chola King had the title \"Thodithot Sembiyan\"?",
                 "answer": "A Chola King who destroyed hanging forts.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 233,
                 "question": "Which Chera King had the title \"Imayavaramban\" (One who had the Himalayas as his boundary)?",
                 "answer": "Neduncheralathan.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 234,
                 "question": "Which Pandyan King had the title \"Talayalanganathu Seruvendra\"?",
                 "answer": "Nedunchezhiyan (Victor of Talayalanganam).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 235,
                 "question": "Which Chola King had the title \"Rajasuyam Vetta\" (Performer of Rajasuya Yaga)?",
                 "answer": "Perunarkilli.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 236,
                 "question": "Which Pandyan King had the title \"Aryappadai Kadantha\" (Conqueror of Aryan armies)?",
                 "answer": "Nedunchezhiyan (of Silappathikaram fame).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 237,
@@ -1546,7 +1546,7 @@
                 "id": 246,
                 "question": "Who was the Alwar who was a Dalit (Panar)?",
                 "answer": "Thiruppan Alvar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 247,
@@ -1558,25 +1558,25 @@
                 "id": 248,
                 "question": "Who was the Nayanmar who was a woman?",
                 "answer": "Karaikkal Ammaiyar (and Mangayarkkarasiyar).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 249,
                 "question": "Who was the Nayanmar who was a General?",
                 "answer": "Siruthonda Nayanar (Paranjothi).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 250,
                 "question": "Who was the Nayanmar who was a King (Chera)?",
                 "answer": "Cheraman Perumal Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 251,
                 "question": "Who was the Nayanmar who composed the Thevaram (along with Appar/Sambandar)?",
                 "answer": "Sundarar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 252,
@@ -1641,13 +1641,13 @@
                 "id": 261,
                 "question": "What modern country corresponds to Gandhara?",
                 "answer": "Afghanistan (Kandahar/Kabul region).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 262,
                 "question": "What modern country corresponds to Kamboja?",
                 "answer": "Cambodia (or ancient regions near Kashmir/Afghanistan depending on context).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 263,
@@ -1671,25 +1671,25 @@
                 "id": 266,
                 "question": "What modern region is Avanti?",
                 "answer": "Malwa (Madhya Pradesh).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 267,
                 "question": "What modern region is Kosala?",
                 "answer": "Uttar Pradesh (Ayodhya region).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 268,
                 "question": "What modern region is Matsya?",
                 "answer": "Rajasthan (Jaipur region).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 269,
                 "question": "What modern region is Vidarbha?",
                 "answer": "Maharashtra (Nagpur region).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 270,
@@ -1706,7 +1706,7 @@
                 "id": 271,
                 "question": "What is the \"Tripitaka\"?",
                 "answer": "The \"Three Baskets\" of Buddhist scriptures (Sutta, Vinaya, Abhidhamma).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 272,
@@ -1736,7 +1736,7 @@
                 "id": 276,
                 "question": "Who wrote Ashtadhyayi (Sanskrit Grammar)?",
                 "answer": "Panini.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 277,
@@ -1784,7 +1784,7 @@
                 "id": 284,
                 "question": "Who wrote Kundalakesi?",
                 "answer": "Unknown (Nathakuthana).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 285,
@@ -1820,7 +1820,7 @@
                 "id": 290,
                 "question": "Who wrote Nalayira Divya Prabandham?",
                 "answer": "The Alvars (Compiled by Nathamuni).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -1831,7 +1831,7 @@
                 "id": 291,
                 "question": "Who was the Chola King who invaded Sri Lanka and ruled for 44 years?",
                 "answer": "Elara.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 292,
@@ -1843,19 +1843,19 @@
                 "id": 293,
                 "question": "Who was the Pandya King associated with the \"Sangam Plank\" legend?",
                 "answer": "Ugra Peru Vazhuthi.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 294,
                 "question": "Who was the Pandya King who converted to Jainism and back to Saivism?",
                 "answer": "Koon Pandyan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 295,
                 "question": "Who was the Chola King associated with the \"Golden Roof\" of Chidambaram?",
                 "answer": "Parantaka Chola I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 296,
@@ -1867,25 +1867,25 @@
                 "id": 297,
                 "question": "Who was the Pandyan King who died of a broken heart for Kannagi?",
                 "answer": "Nedunchezhiyan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 298,
                 "question": "Who was the Chera King who ascended to heaven with Sundarar?",
                 "answer": "Cheraman Perumal.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 299,
                 "question": "Who was the Pallava King who built the Kanchi Kailasanathar Temple?",
                 "answer": "Rajasimha (Narasimhavarman II).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 300,
                 "question": "Who was the Chola King who built the Gangaikonda Cholapuram temple?",
                 "answer": "Rajendra Chola I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -1896,91 +1896,91 @@
                 "id": 301,
                 "question": "What is the birth star and place of Amarneethi Nayanar?",
                 "answer": "Star: Ani Pooram; Place: Pazhayarai (Chola Nadu).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 302,
                 "question": "To which caste did Karaikkal Ammaiyar belong, and what is her birth star?",
                 "answer": "Vaisya (Merchant) caste; Star: Panguni Swathi.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 303,
                 "question": "Who was the Nayanmar born in Thiruvarur belonging to the Brahmin caste with the star Panguni Sathayam?",
                 "answer": "Dandi Adigal Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 304,
                 "question": "Pugazh Chola Nayanar ruled from which capital and what was his birth star?",
                 "answer": "Uraiyur; Star: Aadi Krithigai.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 305,
                 "question": "Which Nayanmar was a Chola King born under the star Masi Sathayam?",
                 "answer": "Ko Chengat Cholan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 306,
                 "question": "Who was the Nayanmar from Lalgudi (Tiruthavathurai) belonging to the Adi Saiva caste?",
                 "answer": "Pugazh Thunai Nayanar (Star: Avani Ayilyam).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 307,
                 "question": "Which Nayanmar was a potter (Kuyavar) from Chidambaram?",
                 "answer": "Thiruneelakanda Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 308,
                 "question": "Who was the Nayanmar born in Thirunindravur belonging to the fisherman (Paravar) community?",
                 "answer": "Adhipaththa Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 309,
                 "question": "Which Nayanmar was a Washerman (Vannar) from Kanchipuram?",
                 "answer": "Thirukkurippu Thonda Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 310,
                 "question": "Who was the Nayanmar born in Mylapore (Chennai) belonging to the Vellala caste?",
                 "answer": "Vayilar Nayanar (Star: Margazhi Revathi).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 311,
                 "question": "What is the birth star of Thirunavukkarasar (Appar)?",
                 "answer": "Chithirai Sathayam.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 312,
                 "question": "Who was the Nayanmar born in Thiruvadavur (Pandya Nadu) who became a minister?",
                 "answer": "Manickavasagar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 313,
                 "question": "Which Nayanmar was a Hunter (Vedar) from Kalahasti?",
                 "answer": "Kannappa Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 314,
                 "question": "Which Nayanmar was a General (Senapathi) of the Chola King?",
                 "answer": "Siruthonda Nayanar (Paranjothi).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 315,
                 "question": "Who was the Nayanmar born in Thirunavalur?",
                 "answer": "Sundarar (Nambi Aroorar).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -1991,73 +1991,73 @@
                 "id": 316,
                 "question": "Who was the First Alwar born in Kanchipuram (Tiruvekka)?",
                 "answer": "Poigai Alwar (Star: Aippasi Sravanam).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 317,
                 "question": "Who was the Alwar born in Mahabalipuram (Kadalmallai)?",
                 "answer": "Bhoothath Alwar (Star: Aippasi Avittam).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 318,
                 "question": "Who was the Alwar born in Mylapore?",
                 "answer": "Pey Alwar (Star: Aippasi Sathayam).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 319,
                 "question": "Who was the Alwar born in Thirumazhisai?",
                 "answer": "Thirumazhisai Alwar (Star: Thai Magam).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 320,
                 "question": "Who was the Alwar born in Thirukkurugur (Alwarthirunagari)?",
                 "answer": "Nammalwar (Star: Vaikasi Visakam).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 321,
                 "question": "Who was the Alwar born in Srivilliputhur?",
                 "answer": "Periyalwar (Star: Ani Swathi).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 322,
                 "question": "Who was the female Alwar born in Srivilliputhur?",
                 "answer": "Andal (Star: Aadi Pooram).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 323,
                 "question": "Who was the Alwar who was a King of the Chera dynasty?",
                 "answer": "Kulasekhara Alwar (Star: Masi Punarpoosam).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 324,
                 "question": "Who was the Alwar born in Uraiyur belonging to the Panar caste?",
                 "answer": "Thiruppan Alwar (Star: Karthigai Rohini).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 325,
                 "question": "Who was the Alwar born in Thirumangai (Chola Nadu)?",
                 "answer": "Thirumangai Alwar (Star: Karthigai Krithigai).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 326,
                 "question": "Who was the Alwar born in Thirukoshtiyur?",
                 "answer": "Thondaradippodi Alwar (born in Thirumangai/Mandangudi; Star: Margazhi Kettai).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 327,
                 "question": "Which Alwar is considered an incarnation of the Kaustubha gem?",
                 "answer": "Pey Alwar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -2068,19 +2068,19 @@
                 "id": 328,
                 "question": "Which temple deity is known as \"Aabhathsahayeswarar\"?",
                 "answer": "The Shiva deity at Aaduthurai (and Tirupazhanam).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 329,
                 "question": "Where is the \"Panchamukha\" (Five-faced) Shiva Lingam located according to the text?",
                 "answer": "Thiruvanaikkaval (Jambukeshwarar).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 330,
                 "question": "Which temple is associated with the \"Emerald\" (Maragatha) Lingam?",
                 "answer": "Thirueengoimalai (or Tiruvarur Tyagaraja/Uthirakosamangai).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 331,
@@ -2116,13 +2116,13 @@
                 "id": 336,
                 "question": "Which temple is the place where Shiva drank the Halahala poison?",
                 "answer": "Thiruppainneeli (or Thirukandiyur).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 337,
                 "question": "Where is the temple of \"Mathrubhutheswarar\"?",
                 "answer": "Tiruchirappalli (Rockfort).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 338,
@@ -2151,19 +2151,19 @@
                 "id": 341,
                 "question": "How many major Gotras originate from the Sapta Rishis?",
                 "answer": "108 Gotras.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 342,
                 "question": "Which Rishi is the ancestor of the \"Srivatsa\" Gotra?",
                 "answer": "Bhrigu (Jamadagni line).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 343,
                 "question": "Which Rishi is the ancestor of the \"Bharadwaja\" Gotra?",
                 "answer": "Angirasa (Brihaspati line).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 344,
@@ -2181,7 +2181,7 @@
                 "id": 346,
                 "question": "Who are the three main Rishis (Pravara) for the Kashyapa Gotra?",
                 "answer": "Kashyapa, Avatsara, Naidruva.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 347,
@@ -2193,7 +2193,7 @@
                 "id": 348,
                 "question": "Which Rishi is the ancestor of the \"Harita\" Gotra?",
                 "answer": "Angirasa (Harita line).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -2210,7 +2210,7 @@
                 "id": 350,
                 "question": "Who was the Pandya King who ruled during the time of the Mahabharata War?",
                 "answer": "Raja Kunjaran (Mudathirumaran III).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 351,
@@ -2222,13 +2222,13 @@
                 "id": 352,
                 "question": "Who was the Chera King who ruled during the Mahabharata War?",
                 "answer": "Perunchotru Uthiyan Cheralathan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 353,
                 "question": "According to the text, who ruled the Magadha kingdom during the time of Krishna?",
                 "answer": "Jarasandha.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 354,
@@ -2246,13 +2246,13 @@
                 "id": 356,
                 "question": "Which Chola King destroyed the 'Hanging Forts' of the Asuras?",
                 "answer": "Thodithot Sembiyan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 357,
                 "question": "Who was the Pandya King who sent an embassy to Augustus Caesar?",
                 "answer": "A Pandya King around 20 B.C.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 358,
@@ -2270,7 +2270,7 @@
                 "id": 360,
                 "question": "According to the text, when was Madhvacharya born?",
                 "answer": "13th Century A.D. (approx 1238 A.D.).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             }
         ]
     },
@@ -2281,25 +2281,25 @@
                 "id": 361,
                 "question": "According to Siddha medicine, how many types of diseases are there?",
                 "answer": "4,448 diseases.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 362,
                 "question": "Which herb is specified for improving memory power?",
                 "answer": "Vallarai (Centella asiatica).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 363,
                 "question": "Which herb is used for Jaundice (Kamalai)?",
                 "answer": "Keezhanelli (Phyllanthus niruri).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 364,
                 "question": "What is the remedy for Scorpion sting mentioned in the text?",
                 "answer": "Eating Coconut (Kopparai) or applying certain herbal pastes.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 365,
@@ -2311,7 +2311,7 @@
                 "id": 366,
                 "question": "What is the treatment for Eye pain mentioned?",
                 "answer": "Applying Aloe Vera (Sotru Katrazhai) pulp on the eyes.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 367,
@@ -2323,19 +2323,19 @@
                 "id": 368,
                 "question": "Which text mentions the construction of Aircraft (Vimanas)?",
                 "answer": "Vimana Nool (by Bharadwaja/Agastya).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 369,
                 "question": "According to the text, what did Aryabhatta calculate accurately?",
                 "answer": "The value of Pi (22/7) and the rotation of the Earth.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 370,
                 "question": "Who is credited with the discovery of Zero in the text?",
                 "answer": "Pingala (before Aryabhatta).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -2400,7 +2400,7 @@
                 "id": 380,
                 "question": "Who wrote 'Nannul' (Tamil Grammar)?",
                 "answer": "Bavanandi Munivar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 381,
@@ -2424,7 +2424,7 @@
                 "id": 384,
                 "question": "Who wrote 'Nalayira Divya Prabandham'?",
                 "answer": "The 12 Alwars (Compiled by Nathamuni).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 385,
@@ -2441,13 +2441,13 @@
                 "id": 386,
                 "question": "Who was the Pallava King converted from Jainism to Saivism by Appar?",
                 "answer": "Mahendravarman I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 387,
                 "question": "Which Chola King conquered the Ganges?",
                 "answer": "Rajendra Chola I (Gangai Konda Cholan).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 388,
@@ -2465,7 +2465,7 @@
                 "id": 390,
                 "question": "Who was the Maratha King of Thanjavur known for his library?",
                 "answer": "Serfoji II.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 391,
@@ -2477,19 +2477,19 @@
                 "id": 392,
                 "question": "Who was the Hoysala King who patronized Ramanujar?",
                 "answer": "Vishnuvardhana (formerly Bitti Deva).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 393,
                 "question": "Who was the Rashtrakuta King who built the Kailasanatha Temple at Ellora?",
                 "answer": "Krishna I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 394,
                 "question": "Which Pandya King ruled during the time of the Silappathikaram events?",
                 "answer": "Nedunchezhiyan (Aryappadai Kadantha).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 395,
@@ -2506,7 +2506,7 @@
                 "id": 396,
                 "question": "What is the 'Sangam Plank' (Sanga Palagai)?",
                 "answer": "A miraculous plank in the Golden Lotus Tank at Madurai that judged the worthiness of literary works.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 397,
@@ -2518,19 +2518,19 @@
                 "id": 398,
                 "question": "What happens every 12 years at the Mahamaham tank in Kumbakonam?",
                 "answer": "A major bathing festival where holy rivers are believed to congregate.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 399,
                 "question": "Who is the 'Kula Deivam' (Family Deity) of the Cholas?",
                 "answer": "Nishumbhasuthini (Durga) or Lord Shiva (Tyagaraja).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 400,
                 "question": "Which Tamil King is credited with bringing sugarcane to Tamil Nadu?",
                 "answer": "Adhiyaman (Ancestor).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 401,
@@ -2548,7 +2548,7 @@
                 "id": 403,
                 "question": "Who was the patron of the poet Ottakoothar?",
                 "answer": "The Chola Kings (Vikrama, Kulothunga II, Rajaraja II).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 404,
@@ -2566,7 +2566,7 @@
                 "id": 406,
                 "question": "What is the 'Fifth Veda' in the Tamil tradition?",
                 "answer": "Thirukkural (or Mahabharata in general Indian tradition).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 407,
@@ -2578,7 +2578,7 @@
                 "id": 408,
                 "question": "What musical instrument is associated with Narada?",
                 "answer": "Mahathi (Veena).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 409,
@@ -2601,25 +2601,25 @@
                 "id": 411,
                 "question": "Which country is referred to as 'Kusa Dwipa'?",
                 "answer": "Africa (specifically the region around Egypt/Ethiopia/Sudan).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 412,
                 "question": "Which country is referred to as 'Krauncha Dwipa'?",
                 "answer": "Greece/Turkey region.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 413,
                 "question": "Which ancient civilization is linked to the 'Mayan' architect?",
                 "answer": "The Maya civilization of the Americas.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 414,
                 "question": "What is the connection between 'Peruvian' culture and India in the text?",
                 "answer": "They worshipped the Sun (Incas/Suryavamsam) and had similar temple structures.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 415,
@@ -2637,55 +2637,55 @@
                 "id": 417,
                 "question": "What does the text say about the origin of the name 'Russia'?",
                 "answer": "Derived from 'Rishi' or related Sanskrit roots (Rishika).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 418,
                 "question": "Which Tamil work is claimed to be chanted in Thailand/Cambodia during coronations?",
                 "answer": "Thiruppavai and Thiruvempavai.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 419,
                 "question": "Who built the Angkor Wat?",
                 "answer": "Suryavarman II (descendant of Indian/Kamboja lineage).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 420,
                 "question": "Which Chola King sent a naval expedition to Kadaram (Malaysia)?",
                 "answer": "Rajendra Chola I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 421,
                 "question": "Which Chola King conquered Sri Lanka?",
                 "answer": "Raja Raja Chola I (and Rajendra Chola I).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 422,
                 "question": "Who was the Chola King known as 'Ellalan' in Sri Lanka?",
                 "answer": "A just king who ruled Sri Lanka for 44 years.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 423,
                 "question": "What is the 'Colossus of Rhodes' compared to in the text?",
                 "answer": "A massive Sun idol, similar to Indian Sun worship.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 424,
                 "question": "What destroyed the city of Poompuhar?",
                 "answer": "A massive tsunami/deluge (Kadalkol).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 425,
                 "question": "Where did Ashwatthama migrate to according to the text?",
                 "answer": "Arabian/Iraq region (Kufa).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             }
         ]
     },
@@ -2696,31 +2696,31 @@
                 "id": 426,
                 "question": "In which text is the line 'Kal Thondri Man Thondra Kalaathe...' found?",
                 "answer": "Purapporul Venba Malai.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 427,
                 "question": "Which text describes the 'Kumari Kandam' geography?",
                 "answer": "Silappathikaram (and commentaries on Tolkappiyam).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 428,
                 "question": "Which text lists the 64 Arts (Aykalaigal)?",
                 "answer": "Vatsyayana's Kamasutra (and Tamil texts like Chudamani Nigandu).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 429,
                 "question": "Which text is known as the 'Tamil Veda'?",
                 "answer": "Thirukkural (or Thiruvaimozhi/Thevaram depending on context).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 430,
                 "question": "Who wrote the commentary for Thirukkural?",
                 "answer": "Parimelazhagar (most famous).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 431,
@@ -2851,7 +2851,7 @@
                 "id": 451,
                 "question": "According to the text, who was the first Manu (Swayambhu) and where did he establish his capital?",
                 "answer": "Swayambhu Manu established his capital on the banks of the Yamuna (Kalindi) river in Northern India.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 452,
@@ -2905,7 +2905,7 @@
                 "id": 460,
                 "question": "According to the text, the 'Milk Ocean' was located in which Dwipa?",
                 "answer": "Saka Dwipa.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -2940,7 +2940,7 @@
                 "id": 465,
                 "question": "Who was the last king of the Solar Dynasty mentioned, killed by Abhimanyu?",
                 "answer": "Brihadbala.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 466,
@@ -2952,7 +2952,7 @@
                 "id": 467,
                 "question": "Which Solar Dynasty king is listed as the father of King Dasharatha?",
                 "answer": "Aja.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 468,
@@ -2970,7 +2970,7 @@
                 "id": 470,
                 "question": "Which King of the Solar Dynasty is associated with the title 'Khatvanga'?",
                 "answer": "Dilipa II.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -2981,7 +2981,7 @@
                 "id": 471,
                 "question": "Who was the father of Vasudeva?",
                 "answer": "Surasena (Shoora).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 472,
@@ -2993,7 +2993,7 @@
                 "id": 473,
                 "question": "How many brothers did Vasudeva have?",
                 "answer": "Nine.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 474,
@@ -3064,91 +3064,91 @@
                 "id": 484,
                 "question": "What is the Tamil name for the musical note Shadjam (Sa)?",
                 "answer": "Kural.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 485,
                 "question": "What is the Tamil name for the note Rishabham (Ri)?",
                 "answer": "Thuttham.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 486,
                 "question": "What is the Tamil name for the note Gandharam (Ga)?",
                 "answer": "Kaikilai.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 487,
                 "question": "What is the Tamil name for the note Madhyamam (Ma)?",
                 "answer": "Uzhai.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 488,
                 "question": "What is the Tamil name for the note Panchamam (Pa)?",
                 "answer": "Ili.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 489,
                 "question": "What is the Tamil name for the note Dhaivatam (Dha)?",
                 "answer": "Vilari.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 490,
                 "question": "What is the Tamil name for the note Nishadam (Ni)?",
                 "answer": "Tharam.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 491,
                 "question": "Which animal's sound is associated with the note Kural (Sa)?",
                 "answer": "Peacock.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 492,
                 "question": "Which animal's sound is associated with the note Ili (Pa)?",
                 "answer": "Cuckoo.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 493,
                 "question": "Which animal's sound is associated with the note Tharam (Ni)?",
                 "answer": "Elephant.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 494,
                 "question": "What is the ancient Tamil name for the Raga Shankarabharanam?",
                 "answer": "Pazham Panchuram.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 495,
                 "question": "What is the ancient Tamil name for the Raga Bhairavi?",
                 "answer": "Kousikam.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 496,
                 "question": "What is the ancient Tamil name for the Raga Kambhoji?",
                 "answer": "Thakkesi.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 497,
                 "question": "What is the ancient Tamil name for the Raga Neelambari?",
                 "answer": "Megharagakurinji.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 498,
                 "question": "What is the ancient Tamil name for the Raga Todi?",
                 "answer": "Vilari.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             }
         ]
     },
@@ -3159,19 +3159,19 @@
                 "id": 499,
                 "question": "What is the Siddha remedy for Scorpion Stings?",
                 "answer": "Eating Coconut (Kopparai) or applying paste of salt and indigo.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 500,
                 "question": "What is the remedy for Eye Pain involving Aloe Vera?",
                 "answer": "Applying the pulp of Sotru Katrazhai (Aloe Vera) on the eyes.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 501,
                 "question": "What is the remedy for Stomach Pain caused by heat?",
                 "answer": "Eating Fenugreek (Vendayam) soaked in curd.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 502,
@@ -3189,31 +3189,31 @@
                 "id": 504,
                 "question": "What is the remedy for Jaundice (Kamalai)?",
                 "answer": "Keezhanelli ground with curd or milk.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 505,
                 "question": "What is the remedy for Memory Power?",
                 "answer": "Vallarai (Centella asiatica) greens.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 506,
                 "question": "What is the remedy for Kidney Stones?",
                 "answer": "Juice of Banana Stem (Vazhaithandu).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 507,
                 "question": "What is the remedy for Indigestion in children?",
                 "answer": "Omam (Ajwain) water or Betel leaf juice.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 508,
                 "question": "What is the remedy for Dysentery?",
                 "answer": "Poppy seeds (Kasa Kasa) and Almonds ground in milk.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -3254,7 +3254,7 @@
                 "id": 514,
                 "question": "Who wrote 'Nalayira Divya Prabandham' (Compilation)?",
                 "answer": "Nathamuni.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 515,
@@ -3331,37 +3331,37 @@
                 "id": 526,
                 "question": "Which Nayanmar was a Potter (Kuyavar) from Chidambaram?",
                 "answer": "Thiruneelakanda Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 527,
                 "question": "Which Nayanmar was a Fisherman (Paravar) from Nagapattinam?",
                 "answer": "Adhipaththa Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 528,
                 "question": "Which Nayanmar was a Washerman (Vannar) from Kanchipuram?",
                 "answer": "Thirukkurippu Thonda Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 529,
                 "question": "Which Nayanmar was a Hunter (Vedar) who gave his eyes to Shiva?",
                 "answer": "Kannappa Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 530,
                 "question": "Which Nayanmar was a General (Senapathi) of the Chola King and cooked his own child?",
                 "answer": "Siruthonda Nayanar (Paranjothi).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 531,
                 "question": "Who was the Nayanmar born in Mylapore (Chennai) belonging to the Vellala caste?",
                 "answer": "Vayilar Nayanar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 532,
@@ -3379,19 +3379,19 @@
                 "id": 534,
                 "question": "Which Nayanmar was a King of the Chola Dynasty?",
                 "answer": "Pugazh Chola Nayanar (and Ko Chengat Cholan).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 535,
                 "question": "Which Nayanmar was a King of the Pandya Dynasty?",
                 "answer": "Ninra Seer Nedumaran (Koon Pandyan).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 536,
                 "question": "Which Nayanmar composed the Thevaram along with Appar and Sambandar?",
                 "answer": "Sundarar.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -3402,49 +3402,49 @@
                 "id": 537,
                 "question": "What is the river 'Pahruli' associated with?",
                 "answer": "A river in the lost continent of Kumari Kandam, excavated by Pandyan Nediyon.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 538,
                 "question": "What is the river 'Kumari' associated with?",
                 "answer": "A river in the lost continent, distinct from the modern Kanyakumari point.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 539,
                 "question": "Where was the 'Meru Mountain' located according to this text?",
                 "answer": "In the center of Kumari Kandam (not the Himalayas).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 540,
                 "question": "What is the modern name for 'Mina Desam' mentioned in the text?",
                 "answer": "The region of Egypt/Arabia (Mina = Fish).",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 541,
                 "question": "What is 'Kapata Puram'?",
                 "answer": "The capital of the Middle Sangam (Idai Sangam).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 542,
                 "question": "What is 'Thenmadurai'?",
                 "answer": "The capital of the First Sangam (Thalai Sangam).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 543,
                 "question": "What is 'Kavadapuram' also known as?",
                 "answer": "Kapadapuram (Gateway City).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 544,
                 "question": "Where is the 'Golden Lotus Tank' (Potramarai Kulam) located?",
                 "answer": "In the Madurai Meenakshi Amman Temple.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 545,
@@ -3485,7 +3485,7 @@
                 "id": 550,
                 "question": "Who are the Ashta Vasus (8 Elemental Gods)?",
                 "answer": "Apa (Water), Dhruva (Pole Star), Soma (Moon), Dhara (Earth), Anila (Wind), Anala (Fire), Pratyusha (Dawn), Prabhasa (Light).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 551,
@@ -3497,19 +3497,19 @@
                 "id": 552,
                 "question": "Who was the son of the Vasu Anala (Fire)?",
                 "answer": "Skanda/Kartikeya.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 553,
                 "question": "Who was the son of the Vasu Pratyusha?",
                 "answer": "Devala (The Sage).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 554,
                 "question": "Who was the son of the Vasu Prabhasa?",
                 "answer": "Viswakarma (The Divine Architect).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -3520,37 +3520,37 @@
                 "id": 555,
                 "question": "Which temple deity is known as 'Mathrubhutheswarar'?",
                 "answer": "Tiruchirappalli (Rockfort).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 556,
                 "question": "Which temple deity is known as 'Jambukeswarar'?",
                 "answer": "Thiruvanaikaval (Water Element).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 557,
                 "question": "Which temple deity is known as 'Arunachaleswarar'?",
                 "answer": "Thiruvannamalai (Fire Element).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 558,
                 "question": "Which temple deity is known as 'Kalahastheeswarar'?",
                 "answer": "Srikalahasti (Air Element).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 559,
                 "question": "Which temple deity is known as 'Ekambareswarar'?",
                 "answer": "Kanchipuram (Earth Element).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 560,
                 "question": "Which temple deity is known as 'Nataraja'?",
                 "answer": "Chidambaram (Sky/Ether Element).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 561,
@@ -3580,7 +3580,7 @@
                 "id": 565,
                 "question": "Which temple deity is known as 'Aravamudan'?",
                 "answer": "Thirukkudanthai (Kumbakonam).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 566,
@@ -3609,13 +3609,13 @@
                 "id": 569,
                 "question": "What does the word 'Dravida' mean according to the text?",
                 "answer": "From 'Thiravidar', meaning those who ran/migrated.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 570,
                 "question": "Who was the 'Negro' King listed as a patron of the Tamil Sangam?",
                 "answer": "Niruthi.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 571,
@@ -3627,7 +3627,7 @@
                 "id": 572,
                 "question": "Which Siddha is said to have entered the body of a shepherd named Moolan?",
                 "answer": "Thirumoolar.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 573,
@@ -3651,7 +3651,7 @@
                 "id": 576,
                 "question": "What is the significance of 'Jyothi' in Ramalinga Vallalar's philosophy?",
                 "answer": "God is Light (Arutperunjyothi).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 577,
@@ -3663,7 +3663,7 @@
                 "id": 578,
                 "question": "Who was the Chola King who invaded Kalinga, celebrated in Kalingattuparani?",
                 "answer": "Kulothunga Chola I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 579,
@@ -3675,19 +3675,19 @@
                 "id": 580,
                 "question": "What festival's cessation caused the destruction of Poompuhar?",
                 "answer": "The Indra Vizha.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 581,
                 "question": "Who was the Greek King mentioned as 'Yavana' in Indian texts?",
                 "answer": "Referring to Ionians (Greeks).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 582,
                 "question": "Which Tamil King ruled Egypt according to the text?",
                 "answer": "Kings with the title 'Kari'.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 583,
@@ -3723,19 +3723,19 @@
                 "id": 588,
                 "question": "Who was the greatest ruler of the Gupta Dynasty?",
                 "answer": "Samudra Gupta (or Chandragupta II).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 589,
                 "question": "Who was the King of Kalinga defeated by Ashoka?",
                 "answer": "(Not named, but the Kalinga War is the event).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 590,
                 "question": "Who was the Pandyan King who standardized land measurement?",
                 "answer": "Nilan Tharu Thiruvil Pandyan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 591,
@@ -3753,7 +3753,7 @@
                 "id": 593,
                 "question": "Who was the Pallava King who was a great wrestler (Mamalla)?",
                 "answer": "Narasimhavarman I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 594,
@@ -3765,7 +3765,7 @@
                 "id": 595,
                 "question": "Who was the Rashtrakuta King who built the Ellora Kailasanatha temple?",
                 "answer": "Krishna I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 596,
@@ -3777,13 +3777,13 @@
                 "id": 597,
                 "question": "Who was the famous Kakatiya King (or Queen)?",
                 "answer": "Pratapa Rudra (or Rudrama Devi).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 598,
                 "question": "Who was the Chola King who conquered Kadaram (Malaysia)?",
                 "answer": "Rajendra Chola.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 599,
@@ -3795,7 +3795,7 @@
                 "id": 600,
                 "question": "Who was the Pandyan King who ruled during the First Great Deluge?",
                 "answer": "Oli Sembiyan.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
@@ -3806,25 +3806,25 @@
                 "id": 601,
                 "question": "Which temple is known as the 'Root Element Shrine' (Mooladhara Kshetram)?",
                 "answer": "Thiruvarur (Tyagaraja Swamy).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 602,
                 "question": "Where is the 'Panchamukha' (Five-faced) Shiva Lingam located?",
                 "answer": "Thiruvanaikkaval (Jambukeshwarar).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 603,
                 "question": "Which temple deity is known as 'Aabhathsahayeswarar'?",
                 "answer": "The Shiva deity at Aaduthurai.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 604,
                 "question": "Which temple is associated with the 'Emerald' (Maragatha) Lingam?",
                 "answer": "Thirueengoimalai (and Thiruvarur).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 605,
@@ -3860,7 +3860,7 @@
                 "id": 610,
                 "question": "Where is the temple of 'Mathrubhutheswarar'?",
                 "answer": "Tiruchirappalli (Rockfort).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 611,
@@ -3884,19 +3884,19 @@
                 "id": 614,
                 "question": "Which temple is associated with the story of Thiruneelakanda Nayanar?",
                 "answer": "Thiruerukathampuliyur.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 615,
                 "question": "Which temple is known as 'Swamimalai' (Fourth Arupadaiveedu)?",
                 "answer": "Thiruveragam.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 616,
                 "question": "Which temple deity is known as 'Ujjivanathar'?",
                 "answer": "Thirukarkudi (Uyyakondan Tirumalai).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 617,
@@ -3908,7 +3908,7 @@
                 "id": 618,
                 "question": "Which temple is associated with the 'White Elephant' (Airavata)?",
                 "answer": "Thiruvalanchuzhi.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 619,
@@ -3926,7 +3926,7 @@
                 "id": 621,
                 "question": "Which temple is associated with the 'Magam' festival occurring once in 12 years?",
                 "answer": "Kumbakonam.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 622,
@@ -3944,7 +3944,7 @@
                 "id": 624,
                 "question": "Which temple is associated with the story of Markandeya and the 'Death of Yama'?",
                 "answer": "Thirukkadaiyur.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 625,
@@ -3974,7 +3974,7 @@
                 "id": 629,
                 "question": "Which temple is associated with the 'Cosmic Dance' (Nataraja)?",
                 "answer": "Chidambaram.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 630,
@@ -4057,7 +4057,7 @@
                 "id": 642,
                 "question": "Where is the 'Subramaniya Swamy' temple (First Arupadaiveedu)?",
                 "answer": "Thiruparankundram.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 643,
@@ -4093,13 +4093,13 @@
                 "id": 648,
                 "question": "Where is the 'Subramaniya Swamy' temple (Second Arupadaiveedu)?",
                 "answer": "Tiruchendur.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 649,
                 "question": "Which temple deity is known as 'Naganathaswamy' (Pandya Nadu)?",
                 "answer": "Nainarkovil.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 650,
@@ -4176,7 +4176,7 @@
                 "id": 661,
                 "question": "What is the remedy for 'Scorpion Sting'?",
                 "answer": "Eating Coconut (Kopparai).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 662,
@@ -4188,7 +4188,7 @@
                 "id": 663,
                 "question": "What is the remedy for 'Stomach Pain' due to heat?",
                 "answer": "Eating Fenugreek (Vendayam).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 664,
@@ -4266,7 +4266,7 @@
                 "id": 676,
                 "question": "What is the remedy for 'Diabetes'?",
                 "answer": "Naval (Jamun) fruit seeds.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 677,
@@ -4301,43 +4301,43 @@
                 "id": 681,
                 "question": "What is the Tamil name for 'Shadjam'?",
                 "answer": "Kural.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 682,
                 "question": "What is the Tamil name for 'Rishabham'?",
                 "answer": "Thuttham.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 683,
                 "question": "What is the Tamil name for 'Gandharam'?",
                 "answer": "Kaikilai.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 684,
                 "question": "What is the Tamil name for 'Madhyamam'?",
                 "answer": "Uzhai.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 685,
                 "question": "What is the Tamil name for 'Panchamam'?",
                 "answer": "Ili.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 686,
                 "question": "What is the Tamil name for 'Dhaivatam'?",
                 "answer": "Vilari.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 687,
                 "question": "What is the Tamil name for 'Nishadam'?",
                 "answer": "Tharam.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 688,
@@ -4385,37 +4385,37 @@
                 "id": 695,
                 "question": "Tamil name for Raga 'Shankarabharanam'?",
                 "answer": "Pazham Panchuram.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 696,
                 "question": "Tamil name for Raga 'Bhairavi'?",
                 "answer": "Kousikam.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 697,
                 "question": "Tamil name for Raga 'Kambhoji'?",
                 "answer": "Thakkesi.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 698,
                 "question": "Tamil name for Raga 'Neelambari'?",
                 "answer": "Megharagakurinji.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 699,
                 "question": "Tamil name for Raga 'Todi'?",
                 "answer": "Vilari.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 700,
                 "question": "Tamil name for Raga 'Kalyani'?",
                 "answer": "Arumpalai.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             }
         ]
     },
@@ -4432,13 +4432,13 @@
                 "id": 702,
                 "question": "Significance of 'Nazca Lines'?",
                 "answer": "Ancient Vimana landing strip.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 703,
                 "question": "Symbol in 'Pisco' Bay?",
                 "answer": "A massive Trident (Trishul).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 704,
@@ -4504,7 +4504,7 @@
                 "id": 714,
                 "question": "Origin of name 'Russia'?",
                 "answer": "From 'Rishi'.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 715,
@@ -4521,127 +4521,127 @@
                 "id": 716,
                 "question": "How many Stars in Indian Astrology?",
                 "answer": "27.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 717,
                 "question": "Tamil name for 'Ashwini'?",
                 "answer": "Kuthirai Thalai.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 718,
                 "question": "Tamil name for 'Bharani'?",
                 "answer": "Aduppu.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 719,
                 "question": "Tamil name for 'Krittika'?",
                 "answer": "Theepam.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 720,
                 "question": "Tamil name for 'Rohini'?",
                 "answer": "Uru (Cart).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 721,
                 "question": "Tamil name for 'Mrigashirsha'?",
                 "answer": "Thengai Kan.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 722,
                 "question": "Tamil name for 'Ardra'?",
                 "answer": "Mani.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 723,
                 "question": "Tamil name for 'Punarvasu'?",
                 "answer": "Kadam (Boat).",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 724,
                 "question": "Tamil name for 'Pushya'?",
                 "answer": "Pudalam Poo.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 725,
                 "question": "Tamil name for 'Ashlesha'?",
                 "answer": "Ammi.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 726,
                 "question": "Tamil name for 'Magha'?",
                 "answer": "Murasu.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 727,
                 "question": "How many Planets?",
                 "answer": "9.",
-                "difficulty": "intermediate"
+                "difficulty": "advanced"
             },
             {
                 "id": 728,
                 "question": "Tamil name for Sun?",
                 "answer": "Gnayiru.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 729,
                 "question": "Tamil name for Moon?",
                 "answer": "Thingal.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 730,
                 "question": "Tamil name for Mars?",
                 "answer": "Sevvai.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 731,
                 "question": "Tamil name for Mercury?",
                 "answer": "Arivan.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 732,
                 "question": "Tamil name for Jupiter?",
                 "answer": "Viyazhan.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 733,
                 "question": "Tamil name for Venus?",
                 "answer": "Velli.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 734,
                 "question": "Tamil name for Saturn?",
                 "answer": "Kari.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 735,
                 "question": "Tamil name for Rahu?",
                 "answer": "Karunagam.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 736,
                 "question": "Tamil name for Ketu?",
                 "answer": "Sempaambu.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             }
         ]
     },
@@ -4664,7 +4664,7 @@
                 "id": 739,
                 "question": "Who succeeded Janamejaya?",
                 "answer": "Satanika.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 740,
@@ -4963,7 +4963,7 @@
                 "id": 788,
                 "question": "Who succeeded Suddhodana?",
                 "answer": "Siddhartha (Buddha).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 789,
@@ -5099,7 +5099,7 @@
                 "id": 809,
                 "question": "Who was the first King of the Sinhala dynasty?",
                 "answer": "Vijaya (543 B.C.).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 810,
@@ -5153,7 +5153,7 @@
                 "id": 818,
                 "question": "Who was King Mahasena?",
                 "answer": "Mahasena (256-283 A.D.).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 819,
@@ -5496,7 +5496,7 @@
                 "id": 871,
                 "question": "Who was the first King of Kashmir (Mahabharata era)?",
                 "answer": "Gonanda I.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 872,
@@ -5561,7 +5561,7 @@
                 "id": 881,
                 "question": "Earliest rulers of Nepal?",
                 "answer": "Kirata Dynasty.",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             },
             {
                 "id": 882,
@@ -5786,7 +5786,7 @@
                 "id": 916,
                 "question": "What is 'Navaratri'?",
                 "answer": "Nine nights for Goddess.",
-                "difficulty": "beginner"
+                "difficulty": "advanced"
             },
             {
                 "id": 917,
@@ -5940,7 +5940,7 @@
                 "id": 940,
                 "question": "Who narrated Skanda Purana?",
                 "answer": "Skanda (Murugan).",
-                "difficulty": "beginner"
+                "difficulty": "intermediate"
             }
         ]
     },
