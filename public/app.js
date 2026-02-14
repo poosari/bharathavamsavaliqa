@@ -1,7 +1,7 @@
 // Global variables
 let allQuestions = [];
 let filteredQuestions = [];
-const API_BASE = '/api';
+let categoriesSet = new Set();
 
 // DOM Elements
 const searchInput = document.getElementById('searchInput');
@@ -12,8 +12,6 @@ const questionsContainer = document.getElementById('questionsContainer');
 // Initialize app
 document.addEventListener('DOMContentLoaded', () => {
     loadAllQuestions();
-    loadCategories();
-    loadStats();
     setupEventListeners();
 });
 
@@ -29,24 +27,57 @@ function setupEventListeners() {
     difficultySelect.addEventListener('change', applyFilters);
 }
 
-// Fetch all questions
+// Fetch all questions from JSON file
 async function loadAllQuestions() {
     try {
-        const response = await fetch(`${API_BASE}/questions`);
-        allQuestions = await response.json();
+        const response = await fetch('/data/questions.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        const rawData = await response.json();
+
+        // Flatten questions from categories
+        allQuestions = [];
+        let questionId = 1;
+
+        if (Array.isArray(rawData)) {
+            rawData.forEach(categoryObj => {
+                if (categoryObj.questions && Array.isArray(categoryObj.questions)) {
+                    categoryObj.questions.forEach(q => {
+                        allQuestions.push({
+                            id: questionId++,
+                            question: q.question,
+                            answer: q.answer,
+                            category: categoryObj.category,
+                            difficulty: q.difficulty || 'beginner',
+                            tone: q.tone || 'academic',
+                            keywords: q.keywords || [],
+                            viewCount: 0,
+                            isFavorite: false
+                        });
+                        categoriesSet.add(categoryObj.category);
+                    });
+                }
+            });
+        }
+
         filteredQuestions = [...allQuestions];
+        loadCategories();
+        loadStats();
         displayQuestions(filteredQuestions);
+        console.log(`✅ Loaded ${allQuestions.length} questions`);
     } catch (error) {
         console.error('Error loading questions:', error);
-        showError('Failed to load questions');
+        showError('Failed to load questions: ' + error.message);
+        questionsContainer.innerHTML = '<div class="loading" style="color: white;">Error loading questions. Please check the console for details.</div>';
     }
 }
 
-// Load categories
-async function loadCategories() {
+// Load categories from loaded questions
+function loadCategories() {
     try {
-        const response = await fetch(`${API_BASE}/categories`);
-        const categories = await response.json();
+        const categories = Array.from(categoriesSet).sort();
 
         categories.forEach(category => {
             const option = document.createElement('option');
@@ -59,54 +90,56 @@ async function loadCategories() {
     }
 }
 
-// Load statistics
-async function loadStats() {
+// Load statistics from loaded questions
+function loadStats() {
     try {
-        const response = await fetch(`${API_BASE}/stats`);
-        const stats = await response.json();
+        const stats = {
+            totalQuestions: allQuestions.length,
+            totalCategories: categoriesSet.size,
+            totalViews: allQuestions.reduce((sum, q) => sum + (q.viewCount || 0), 0)
+        };
 
         document.getElementById('totalQuestions').textContent = stats.totalQuestions;
         document.getElementById('totalCategories').textContent = stats.totalCategories;
-        document.getElementById('totalViews').textContent = (stats.totalViews || 0).toLocaleString();
+        document.getElementById('totalViews').textContent = stats.totalViews.toLocaleString();
     } catch (error) {
         console.error('Error loading stats:', error);
     }
 }
 
 // Search questions
-async function searchQuestions() {
-    const keyword = searchInput.value.trim();
+function searchQuestions() {
+    const keyword = searchInput.value.trim().toLowerCase();
 
     if (!keyword) {
         showError('Please enter a search term');
         return;
     }
 
-    try {
-        const response = await fetch(`${API_BASE}/search?keyword=${encodeURIComponent(keyword)}`);
-        filteredQuestions = await response.json();
-        displayQuestions(filteredQuestions);
-    } catch (error) {
-        console.error('Error searching:', error);
-        showError('Search failed');
+    filteredQuestions = allQuestions.filter(q => {
+        const questionLower = (q.question || '').toLowerCase();
+        const answerLower = (q.answer || '').toLowerCase();
+        return questionLower.includes(keyword) || answerLower.includes(keyword);
+    });
+
+    displayQuestions(filteredQuestions);
+
+    if (filteredQuestions.length === 0) {
+        showError(`No questions found matching "${keyword}"`);
     }
 }
 
 // Get random questions
-async function getRandomQuestions() {
-    try {
-        const response = await fetch(`${API_BASE}/random?count=10`);
-        filteredQuestions = await response.json();
-        displayQuestions(filteredQuestions);
-        clearFilters();
-    } catch (error) {
-        console.error('Error getting random questions:', error);
-        showError('Failed to get random questions');
-    }
+function getRandomQuestions() {
+    const count = 10;
+    const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
+    filteredQuestions = shuffled.slice(0, Math.min(count, shuffled.length));
+    displayQuestions(filteredQuestions);
+    clearFilters();
 }
 
 // Apply filters
-async function applyFilters() {
+function applyFilters() {
     const category = categorySelect.value;
     const difficulty = difficultySelect.value;
 
