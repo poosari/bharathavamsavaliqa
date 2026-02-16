@@ -1,4 +1,4 @@
-# 🏛️ Bharata Vamsavali QA
+# 🏛️ Bharatha Vamsavali QA
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
@@ -237,7 +237,7 @@ Found a bug or have a suggestion?
 
 ## 🙏 Acknowledgments
 
-- 1008 Q&A pairs based on Bharata Vamsavali and historical research
+- 1008 Q&A pairs based on Bharatha Vamsavali and historical research
 - Built with Node.js and Express
 - Inspired by the love for ancient Indian history
 

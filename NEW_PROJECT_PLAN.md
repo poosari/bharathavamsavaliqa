@@ -1,4 +1,4 @@
-# 🚀 New Self-Contained Bharata Vamsavali QA Project
+# 🚀 New Self-Contained Bharatha Vamsavali QA Project
 
 ## Vision
 A single, deployable application that:

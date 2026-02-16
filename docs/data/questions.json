@@ -225,7 +225,7 @@
         ]
     },
     {
-        "category": "IV. The Mahabharata Era (Chronology & Lineage)",
+        "category": "IV. The Mahabharatha Era (Chronology & Lineage)",
         "questions": [
             {
                 "id": 36,
@@ -247,25 +247,25 @@
             },
             {
                 "id": 39,
-                "question": "Who was the Pandyan King during the Mahabharata War who fought on the side of the Pandavas?",
+                "question": "Who was the Pandyan King during the Mahabharatha War who fought on the side of the Pandavas?",
                 "answer": "Raja Kunjaran (Mudathirumaran III).",
                 "difficulty": "advanced"
             },
             {
                 "id": 40,
-                "question": "Which Chola King participated in the Mahabharata War?",
+                "question": "Which Chola King participated in the Mahabharatha War?",
                 "answer": "Kumarankusan (or Sumana Cholan).",
                 "difficulty": "intermediate"
             },
             {
                 "id": 41,
-                "question": "Who wrote the Tamil version of the Mahabharata during the Sangam age?",
+                "question": "Who wrote the Tamil version of the Mahabharatha during the Sangam age?",
                 "answer": "Perundevanar (Bharatham Padiya Perundevanar).",
                 "difficulty": "intermediate"
             },
             {
                 "id": 42,
-                "question": "What happened to the city of Dwaraka 36 years after the Mahabharata War?",
+                "question": "What happened to the city of Dwaraka 36 years after the Mahabharatha War?",
                 "answer": "It was submerged by the sea due to a natural calamity/tsunami.",
                 "difficulty": "intermediate"
             },
@@ -1205,7 +1205,7 @@
             },
             {
                 "id": 192,
-                "question": "Who is the \"Chiranjeevi\" from the Mahabharata?",
+                "question": "Who is the \"Chiranjeevi\" from the Mahabharatha?",
                 "answer": "Ashwatthama (and Vyasa).",
                 "difficulty": "intermediate"
             },
@@ -1396,7 +1396,7 @@
             },
             {
                 "id": 223,
-                "question": "Who wrote the Mahabharata in Sanskrit?",
+                "question": "Who wrote the Mahabharatha in Sanskrit?",
                 "answer": "Veda Vyasa.",
                 "difficulty": "beginner"
             },
@@ -2202,25 +2202,25 @@
         "questions": [
             {
                 "id": 349,
-                "question": "What is the calculated date of the Mahabharata War according to the text?",
+                "question": "What is the calculated date of the Mahabharatha War according to the text?",
                 "answer": "3100 B.C.",
                 "difficulty": "intermediate"
             },
             {
                 "id": 350,
-                "question": "Who was the Pandya King who ruled during the time of the Mahabharata War?",
+                "question": "Who was the Pandya King who ruled during the time of the Mahabharatha War?",
                 "answer": "Raja Kunjaran (Mudathirumaran III).",
                 "difficulty": "intermediate"
             },
             {
                 "id": 351,
-                "question": "Who was the Chola King who ruled during the Mahabharata War?",
+                "question": "Who was the Chola King who ruled during the Mahabharatha War?",
                 "answer": "Kumarankusan.",
                 "difficulty": "beginner"
             },
             {
                 "id": 352,
-                "question": "Who was the Chera King who ruled during the Mahabharata War?",
+                "question": "Who was the Chera King who ruled during the Mahabharatha War?",
                 "answer": "Perunchotru Uthiyan Cheralathan.",
                 "difficulty": "intermediate"
             },
@@ -2565,7 +2565,7 @@
             {
                 "id": 406,
                 "question": "What is the 'Fifth Veda' in the Tamil tradition?",
-                "answer": "Thirukkural (or Mahabharata in general Indian tradition).",
+                "answer": "Thirukkural (or Mahabharatha in general Indian tradition).",
                 "difficulty": "intermediate"
             },
             {
@@ -4646,7 +4646,7 @@
         ]
     },
     {
-        "category": "XLVII. Kings of the Lunar Dynasty (Post-Mahabharata)",
+        "category": "XLVII. Kings of the Lunar Dynasty (Post-Mahabharatha)",
         "questions": [
             {
                 "id": 737,
@@ -4813,11 +4813,11 @@
         ]
     },
     {
-        "category": "XLVIII. Kings of the Solar Dynasty (Post-Mahabharata)",
+        "category": "XLVIII. Kings of the Solar Dynasty (Post-Mahabharatha)",
         "questions": [
             {
                 "id": 764,
-                "question": "Who was the last Solar King in Mahabharata?",
+                "question": "Who was the last Solar King in Mahabharatha?",
                 "answer": "Brihadbala.",
                 "difficulty": "beginner"
             },
@@ -5494,7 +5494,7 @@
         "questions": [
             {
                 "id": 871,
-                "question": "Who was the first King of Kashmir (Mahabharata era)?",
+                "question": "Who was the first King of Kashmir (Mahabharatha era)?",
                 "answer": "Gonanda I.",
                 "difficulty": "intermediate"
             },
@@ -5855,7 +5855,7 @@
             },
             {
                 "id": 927,
-                "question": "End of Mahabharata War?",
+                "question": "End of Mahabharatha War?",
                 "answer": "October 31, 3139 B.C.",
                 "difficulty": "beginner"
             },

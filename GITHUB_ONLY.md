@@ -1,6 +1,6 @@
 # 📦 GitHub-Only Deployment Guide
 
-Deploy your Bharata Vamsavali QA directly from GitHub - no other platforms needed!
+Deploy your Bharatha Vamsavali QA directly from GitHub - no other platforms needed!
 
 ---
 
@@ -91,7 +91,7 @@ https://YOUR_USERNAME.github.io/bharathavamsavaliqa
 3. Click **Draft a new release**
 4. Fill in:
    - Tag version: `v1.0.0`
-   - Release title: `Bharata Vamsavali QA v1.0.0`
+   - Release title: `Bharatha Vamsavali QA v1.0.0`
    - Description:
      ```
      Self-contained Node.js application with 1008 Q&A pairs
@@ -235,7 +235,7 @@ Sub-URLs:
 Your `README.md` should have:
 
 ```markdown
-# 🏛️ Bharata Vamsavali QA
+# 🏛️ Bharatha Vamsavali QA
 
 1008 Q&A pairs on Ancient Indian History
 
@@ -275,7 +275,7 @@ MIT
 ```bash
 cd /Users/sridharg/sandbox/bv
 git add .
-git commit -m "Initial commit: Bharata Vamsavali QA - 1008 questions"
+git commit -m "Initial commit: Bharatha Vamsavali QA - 1008 questions"
 git push origin main
 ```
 

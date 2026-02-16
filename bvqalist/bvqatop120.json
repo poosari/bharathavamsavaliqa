@@ -1,0 +1,828 @@
+[
+  {
+    "category": "I. The Lost Continent & Revisionist Geography",
+    "questions": [
+      {
+        "id": 1,
+        "question": "The text describes the ancient Kumari Kandam not merely as a landmass but as a structured administrative region. How does the division of the 49 'Nadus' into seven specific categories (such as Ezhu Thenga Nadu and Ezhu Madurai Nadu) reflect the agricultural or geographical diversity claimed by the author?",
+        "answer": "The text divides Kumari Kandam into 49 Nadus organized into seven major groups: Ezhu Thenga Nadu (Coconut), Ezhu Madurai Nadu, Ezhu Munpalai Nadu, Ezhu Pinpalai Nadu, Ezhu Kunra Nadu (Hilly), Ezhu Gunakarai Nadu (Coastal), and Ezhu Kurumpanai Nadu. This naming convention suggests a diverse topography ranging from coastal regions to hilly terrains and agricultural zones capable of supporting the Pandyan civilization before the deluge."
+      },
+      {
+        "id": 2,
+        "question": "Contra to standard geography which places Mount Meru in the Himalayas, where does this text locate the 'Meru Mountain,' and what hydrological significance is attributed to it regarding the Pahruli River?",
+        "answer": "The text explicitly locates the Meru Mountain in the center of the lost Indian Ocean continent (Kumari Kandam), describing it as having 49 peaks. It identifies this mountain as the source of the Pahruli River (and others like the Kumari), which flowed eastward into the ocean, distinct from the Himalayan river systems."
+      },
+      {
+        "id": 3,
+        "question": "The text claims a migration from the submerged Kumari lands to the Middle East. How is the Chola King Oli Sembiyan (Jayamunjunan) connected to the establishment of the 'Solar Dynasty' in Egypt, and what linguistic link is proposed for the term 'So-La'?",
+        "answer": "King Oli Sembiyan is credited with migrating from the submerged lands to 'Mina Desam' (Egypt/Middle East). The text proposes that the term 'Chola' corresponds to 'So-La' (Sun), thereby establishing him as the founder of the Solar Dynasty (Suryavamsam) in Egypt, linking Dravidian migration to the pharaonic lineage."
+      },
+      {
+        "id": 4,
+        "question": "In describing the ancient geography of the 'Seven Dwipas' (Continents), the text reinterprets mythological names like 'Krauncha Dwipa' and 'Kusa Dwipa.' Which modern geographical regions do these correspond to, and what logic is used to demystify terms like the 'Milk Ocean'?",
+        "answer": "The text identifies Krauncha Dwipa (Heron Island) with the Greece/Turkey region and Kusa Dwipa with Africa/Egypt. It argues that mythological oceans like the 'Milk Ocean' (Paal Kadal) in Saka Dwipa were named after the specific color or mineral nature of the river waters in those regions, rather than literally containing milk."
+      },
+      {
+        "id": 5,
+        "question": "The text asserts that the 'First Great Deluge' (c. 13,900 B.C.) forced a migration from the south. How does the text link the ancestors of the Cholas and the Vanaras to the 'Tiger Land' and 'Monkey Land' of Salmala Dwipa prior to this catastrophe?",
+        "answer": "The text claims that before the deluge, the Salmala Dwipa (identified with the Malaysia/Indonesia region) was inhabited by the ancestors of the Cholas (associated with the Tiger flag/Tiger Land) and the Vanaras (Monkey clan/Monkey Land), who were forced to migrate to India and other regions when the sea levels rose."
+      }
+    ]
+  },
+  {
+    "category": "II. The Three Sangams & Literary History",
+    "questions": [
+      {
+        "id": 6,
+        "question": "The First Sangam (Thalai Sangam) is traditionally associated with gods and sages. Which specific literary work does the text cite to support the claim that 89 Pandyan Kings patronized this Sangam, and who were the primary deities presiding over it?",
+        "answer": "The text cites Nakkirar's commentary on the *Irayanar Akapporul* as the source for the 89 Pandyan patrons. The presiding deities and sages mentioned are Lord Shiva (Irayanar), Murugan, and Agastya, emphasizing the divine origin attributed to Tamil literature."
+      },
+      {
+        "id": 7,
+        "question": "Following the submersion of Kapadapuram, the capital of the Middle Sangam, which Pandyan King is credited with establishing the Last Sangam (Kadai Sangam) in North Madurai, and what does this signify about the continuity of the Pandyan dynasty?",
+        "answer": "Mudathirumaran III is credited with establishing the Last Sangam in North Madurai after Kapadapuram was submerged. This signifies the dynasty's resilience, as they shifted capitals northward (from South Madurai to Kapadapuram to North Madurai) to survive successive deluges."
+      },
+      {
+        "id": 8,
+        "question": "The text provides a specific duration and participant count for the Middle Sangam. How long is this period said to have lasted, and which two prominent grammarians are listed as key members of this assembly?",
+        "answer": "The Middle Sangam is said to have lasted for 3,700 years with 3,700 poets contributing. The two most prominent grammarians listed as key members are Sage Agastya and his disciple Tolkappiyar, author of the *Tolkappiyam*."
+      },
+      {
+        "id": 9,
+        "question": "In the context of the Last Sangam, the text mentions the 'Seven Patrons' (Kadai Ezhu Vallalgal). How does the inclusion of figures like Nalli, Ori, and Kari illustrate the political structure of the Tamil regions outside the Three Crowned Kings?",
+        "answer": "The inclusion of the Seven Patrons (Pari, Ori, Kari, Adhiyaman, Began, Ay, Nalli) illustrates that the Tamil political structure included powerful feudal chieftains (Velirs) who ruled independent territories and were crucial patrons of literature, often rivalling or allying with the Chera, Chola, and Pandya monarchs."
+      },
+      {
+        "id": 10,
+        "question": "The text refers to a miraculous object known as the 'Sangam Plank' (Sanga Palagai) located in the Golden Lotus Tank. What was the specific function of this plank in relation to the quality control of Tamil literature?",
+        "answer": "The Sangam Plank functioned as a divine judge of literary merit; it would extend to accommodate manuscripts of high quality but would reject or shrink to exclude works that were unworthy or grammatically flawed, ensuring only the best literature was preserved in the Sangam canon."
+      }
+    ]
+  },
+  {
+    "category": "III. The Ramayana Era: Chronology & Lineage",
+    "questions": [
+      {
+        "id": 11,
+        "question": "The text challenges standard historical timelines by calculating Lord Rama's birth date using astronomical data from the Valmiki Ramayana. What specific date (day, month, year) does it propose, and how many years before the Krishna avatar does it place this event?",
+        "answer": "The text proposes the specific date of 21st April, 7013 B.C. for Rama's birth. It calculates this by estimating a gap of roughly 3,900 years between the Rama avatar and the Krishna avatar (c. 3100 B.C.), basing this on the reigns of intervening kings."
+      },
+      {
+        "id": 12,
+        "question": "In connecting the Ramayana epic to Tamil history, which Chola King is identified as a contemporary of Lord Rama, and what implies his participation in the events of that era?",
+        "answer": "Kambu Kandan (or Kambu Kanan) is identified as the Chola King contemporary to Lord Rama. The text implies his participation or alliance, noting that his daughter (or a Chola princess) was involved in marriages with the Solar dynasty figures."
+      },
+      {
+        "id": 13,
+        "question": "The text provides a complex genealogy for Ravana, linking him to the sage Visravas. How does the text explain Ravana's relationship to Kubera, and what does this suggest about the internecine conflicts within their lineage?",
+        "answer": "The text states that Ravana and Kubera were half-brothers, both sons of Sage Visravas but from different mothers (Kubera from Devavarnini, Ravana from Kaikasi). This relationship underscores the conflict as a dynastic struggle over the control of Lanka and the Pushpaka Vimana."
+      },
+      {
+        "id": 14,
+        "question": "Regarding the transmission of spiritual knowledge, the text mentions Agastya instructing Rama. What specific mantra was taught, and where did this instruction take place according to the narrative?",
+        "answer": "Agastya taught Rama the 'Aditya Hridayam' (Hymn to the Sun) to give him the strength to defeat Ravana. This instruction took place on the battlefield (or just prior) during Rama's stay in the southern regions/Dandakaranya."
+      },
+      {
+        "id": 15,
+        "question": "The text mentions a specific date for the conclusion of the Rama-Ravana war. What is this date, and what astronomical event (an eclipse) does the text associate with the death of Khara and Dushana prior to the final war?",
+        "answer": "The Rama-Ravana war is said to have concluded in 6976 B.C. The text links the earlier death of Khara and Dushana (7th October, 6976 B.C.) to a solar eclipse that occurred on a Tuesday near the pole, utilizing this to anchor the chronology."
+      }
+    ]
+  },
+  {
+    "category": "IV. The Mahabharatha Era: Revisionist Details",
+    "questions": [
+      {
+        "id": 16,
+        "question": "The text offers a precise calculation for the birth of Lord Krishna and the start of the Kali Yuga. What are these two dates, and how does the text use them to frame the antiquity of the Mahabharatha war?",
+        "answer": "Lord Krishna's birth is calculated as 27th July, 3112 B.C., and the start of Kali Yuga is pinned to 18th February, 3102 B.C. The text uses these dates to argue that the Mahabharatha war occurred around 3139 B.C. (or roughly 36 years before Krishna's departure), refuting later dates proposed by Western Indologists."
+      },
+      {
+        "id": 17,
+        "question": "While the Mahabharatha is often viewed as a northern conflict, the text highlights Tamil participation. Which Chera King is cited for his logistical role in feeding both the Pandava and Kaurava armies?",
+        "answer": "Perunchotru Uthiyan Cheralathan is the Chera King cited. His title 'Perunchotru' (Great Rice/Feeder) is derived from the claim that he provided food for both the opposing armies during the 18-day war."
+      },
+      {
+        "id": 18,
+        "question": "The text makes a controversial claim regarding the racial identity of figures like Veda Vyasa and Krishna. What physical characteristic does it emphasize to argue they were of Dravidian (or non-Aryan) stock?",
+        "answer": "The text emphasizes that Veda Vyasa (born on an island) and Krishna were 'black' (Krishna literally meaning black) or dark-complexioned. It uses this to argue they were of Dravidian stock, challenging the colonial 'White Aryan' invasion theory."
+      },
+      {
+        "id": 19,
+        "question": "Following the Mahabharatha war, the text describes a diasporic movement of key figures. To which region does it claim Ashwatthama migrated, and what later lineage is he purported to have influenced?",
+        "answer": "The text claims Ashwatthama migrated to the Arabian/Iraq region (specifically Kufa) after the war. It implies a connection between him and the later Semitic lineages or the Badagas of the region."
+      },
+      {
+        "id": 20,
+        "question": "The tragedy of Ashwatthama using the Brahmastra is detailed in the text. Who was the specific target of this weapon intended to end the Pandava lineage, and how was the victim saved?",
+        "answer": "The weapon targeted the unborn child (Parikshit) in the womb of Uttara (Abhimanyu's wife). The text describes Lord Krishna using his divine energy to protect the fetus within the womb from the Brahmastra's destruction."
+      }
+    ]
+  },
+  {
+    "category": "V. Religious Syncretism & Cross-Cultural Claims",
+    "questions": [
+      {
+        "id": 21,
+        "question": "In a startling syncretic claim, the text identifies 'Pandyan Pulathiyan' with a figure from the New Testament. Who is this figure, and what role does the text assign him in the history of Jesus Christ?",
+        "answer": "The text identifies 'Pandyan Pulathiyan' as Pontius Pilate, the Roman governor. It claims he was a Pandyan official in Judaea who presided over the trial of Jesus, linking Tamil political presence to 1st Century Jerusalem."
+      },
+      {
+        "id": 22,
+        "question": "The text proposes that Jesus Christ (Iso) spent his 'lost years' in India. Which specific educational centers and religious traditions does it claim he studied before returning to Jerusalem?",
+        "answer": "The text claims Jesus studied Buddhism at Nalanda University and Saivism/Jainism in Mylapore (Chennai) and Kanchipuram, suggesting his teachings were influenced by these Indian traditions."
+      },
+      {
+        "id": 23,
+        "question": "Connecting Hindu history with Islamic origins, the text mentions a 'Siddhan Bhoga Dathan'. Who is he claimed to be related to, and what role did he play in the events of Karbala involving Hussein?",
+        "answer": "Siddhan Bhoga Dathan is claimed to be a descendant of Ashwatthama living in Iraq. The text asserts he protected the family of Hussein (the grandson of Prophet Muhammad) during the massacre at Karbala, linking Hindu warrior lineage to Islamic history."
+      },
+      {
+        "id": 24,
+        "question": "The text revises the chronology of Adi Sankara significantly, placing him much earlier than standard history. What birth date is provided, and which Pandyan King is listed as his contemporary?",
+        "answer": "Adi Sankara is placed in 509 B.C. (specifically born on April 8th). The Pandyan King listed as his contemporary is Jitraketu Pandya (or similar early Pandyas), shifting the timeline of the Bhakti movement by over a millennium."
+      },
+      {
+        "id": 25,
+        "question": "Regarding the spread of Buddhism, which monk from Kanchipuram does the text identify as the founder of Zen Buddhism in China, and what local dynasty was he associated with?",
+        "answer": "The text identifies Bodhidharma (or Dharmapala) as the monk from Kanchipuram who spread Buddhism to China. He is associated with the Pallava dynasty, often cited as a Pallava prince turned monk."
+      }
+    ]
+  },
+  {
+    "category": "VI. Ancient Science, Medicine & Astronomy",
+    "questions": [
+      {
+        "id": 26,
+        "question": "The text attributes the discovery of the concept of Zero to Pingala rather than later mathematicians. What is the approximate date given for Pingala, and how does this affect the history of mathematics presented?",
+        "answer": "Pingala is dated to approximately 200 B.C. This attribution posits that the concept of Zero and binary systems (used in his prosody) predated Aryabhatta and the standard Gupta-era dating of these mathematical discoveries."
+      },
+      {
+        "id": 27,
+        "question": "In the field of Siddha medicine, the text mentions a 'Kaya Kalpa' technique involving a specific salt. What is this 'Mu-ppu' salt, and what is its purported function in medical alchemy?",
+        "answer": "'Mu-ppu' is described as a universal salt or catalyst (a combination of three salts). In Siddha alchemy, it is claimed to be used for rejuvenation, extending longevity, and enhancing the potency of other medicines."
+      },
+      {
+        "id": 28,
+        "question": "The text references the 'Agastya Samhita' in the context of electrical engineering. What specific apparatus does it claim this ancient text describes, utilizing materials like copper and zinc?",
+        "answer": "The text claims the *Agastya Samhita* contains instructions for constructing an electric battery (Mitra-Varuna Tejas), describing the use of copper plates, zinc, and wet sawdust/earthenware to generate electricity."
+      },
+      {
+        "id": 29,
+        "question": "Regarding atomic theory, which Tamil poetess is credited with a verse describing the splitting of the atom ('Anu'), and what does this suggest about ancient scientific knowledge?",
+        "answer": "Avvaiyar is credited with the verse (referring to the Kural) about 'piercing an atom (Anu) to insert the seven seas.' The text uses this to argue that the concept of the atom and its divisibility was known in the Sangam era."
+      },
+      {
+        "id": 30,
+        "question": "The text cites specific ancient measurements for the speed of light. Who is the commentator (on the Vedas) attributed with calculating this speed as '2,202 Yojanas in half a Nimesha'?",
+        "answer": "The calculation is attributed to Sayana (a Vedic commentator). The text interprets his commentary on the Sun's movement to correspond remarkably close to the modern speed of light."
+      }
+    ]
+  },
+
+  {
+    "category": "VII. The Agastya Lineage & Literary Contributions",
+    "questions": [
+      {
+        "id": 31,
+        "question": "The text posits that 'Agastya' is not a single individual but a lineage or title used by multiple sages over millennia. How many Agastyas does the text estimate existed across different epochs, and which specific Agastya is credited with establishing the Tamil Sangam on Potigai Malai?",
+        "answer": "The text estimates there were approximately 49 different Agastyas living in various epochs. The specific Agastya credited with establishing the Tamil Sangam on Potigai Malai and crowning the Chola King Musukuntha is identified as the one who lived during the time of the First Sangam or shortly after the Second Deluge."
+      },
+      {
+        "id": 32,
+        "question": "In the context of the 'Vatapi and Ilvala' myth, how does the text re-interpret the digestion of Vatapi? Instead of a magical event, what political or military victory does this story symbolize regarding the Agastya of that specific era?",
+        "answer": "The text interprets the 'digestion of Vatapi' as a military victory where Agastya defeated the Asura kings Vatapi and Ilvala (rulers of the Badami region/Vindhyas) who were harassing Tamil regions, thereby 'digesting' or absorbing their power and territory into the fold of the southern culture."
+      },
+      {
+        "id": 33,
+        "question": "The text links the grammatical work 'Tolkappiyam' to the Second Sangam. What is the teacher-student relationship described between Agastya and Tolkappiyar (Trinadhumagni), and why is Tolkappiyar said to have separated from his master?",
+        "answer": "Tolkappiyar (Trinadhumagni) was a disciple of Agastya. The text implies a separation or distinct school of thought, noting that while Agastya led the first/early movements, Tolkappiyar codified Tamil grammar in the Second Sangam (Kapata Puram) with 'Tolkappiyam,' sometimes differing from Agastya's 'Agathiyam'."
+      },
+      {
+        "id": 34,
+        "question": "Regarding the migration of Brahmins, the text mentions an Agastya bringing 18 Velir kings and 8000 Tamil Brahmins from Dwarka to the south. During the reign of which Pandyan King did this migration occur, and what historical event prompted it?",
+        "answer": "This migration occurred during the reign of Pandyan King 'Venter Chezhiyan' (around 6805 B.C. according to the text). It was prompted by the submergence or destruction of Dwarka and parts of the Yadava territories, leading Agastya to lead this mass migration southward."
+      }
+    ]
+  },
+  {
+    "category": "VIII. The Solar Dynasty (Cholas) & Global Expansion",
+    "questions": [
+      {
+        "id": 35,
+        "question": "The text claims the Chola King 'Thodithot Sembiyan' destroyed the 'Hanging Forts' (Thoongu Eyil). How does this narrative connect to the aerial technology (Vimanas) mentioned in the 'Yantra Sarvasva' and the eventual destruction of Poompuhar?",
+        "answer": "'Thodithot Sembiyan' is credited with destroying the 'Hanging Forts' (aerial fortresses or Vimanas) of the Asuras using advanced weaponry. The text links this to the era of high technology where anti-gravity or aerial cities existed, and suggests such conflicts contributed to the cataclysms that eventually destroyed cities like Poompuhar."
+      },
+      {
+        "id": 36,
+        "question": "King Musukuntha Chola is famous for receiving the 'Sapta Vitanka' Lingams from Indra. According to the text, where did he install the original 'Emerald' (Maragatha) Lingam, and what political title did he assume after this divine legitimation?",
+        "answer": "Musukuntha Chola installed the original Emerald Lingam (Tyagaraja) at Thiruvarur (and associated replicas in 7 other shrines). Following this, he assumed the title 'Chola Chakravarthi' (Emperor), establishing a divine right to rule derived from Indra himself."
+      },
+      {
+        "id": 37,
+        "question": "The text asserts a link between the Cholas and the 'Inca' civilization of Peru. What etymological connection is drawn between 'Inca' and the Solar Dynasty's Sanskrit name, and what symbol (found in Pisco Bay) is used to support this trans-oceanic contact?",
+        "answer": "The text connects 'Inca' to 'Inan' (Sun) or the 'Suryavamsa' (Solar Dynasty) of the Cholas. It uses the massive 'Trishul' (Trident) symbol found carved on a mountain face in Pisco Bay, Peru, as archaeological evidence of this ancient Hindu/Chola presence in the Americas."
+      },
+      {
+        "id": 38,
+        "question": "Identify the Chola King known as 'Manu Neethi Cholan' who executed his own son. The text links him to the Tiruvarur temple; what specific artifact (the Bell) plays a central role in this legend of absolute justice?",
+        "answer": "The King is Ellalan (or Manu Neethi Cholan). The central artifact is the 'Araichi Mani' (Research Bell/Justice Bell) hung at the palace gate; a cow rang this bell to seek justice for its calf killed by the King's son's chariot, leading the King to execute his son under the same chariot wheels."
+      },
+      {
+        "id": 39,
+        "question": "Karikala Chola is celebrated for building the Grand Anicut (Kallanai). Beyond this engineering feat, the text mentions his expedition to the Himalayas. What specific symbol did he inscribe on the Mount Meru/Himalayas to assert Tamil sovereignty?",
+        "answer": "Karikala Chola is said to have inscribed the 'Tiger' crest (the Royal emblem of the Cholas) on the Himalayas/Mount Meru, symbolizing his conquest of the north and the supremacy of the Tamil lion/tiger lineage over the Aryan kings."
+      }
+    ]
+  },
+  {
+    "category": "IX. The Pandyan Dynasty & The Deluges",
+    "questions": [
+      {
+        "id": 40,
+        "question": "The Pandyan King 'Nilam Tharu Thiruvil Pandyan' is associated with the aftermath of a deluge. What specific administrative action regarding land measurement and redistribution earned him this title?",
+        "answer": "After a deluge submerged parts of the kingdom, this King surveyed the remaining land, standardized measurements, and redistributed territory to his subjects to ensure survival and order. The title 'Nilam Tharu' literally means 'He who gave/restored land'."
+      },
+      {
+        "id": 41,
+        "question": "How does the text explain the transition from the 'First Sangam' in South Madurai to the 'Second Sangam' in Kapadapuram? What geological event involving the Kumari river precipitated this shift?",
+        "answer": "The transition was forced by a massive tsunami or deluge (Kadalkol) that submerged South Madurai and the Pahruli river region. The capital was moved north to Kapadapuram (Kavadapuram) to escape the rising sea levels that swallowed the First Sangam's seat."
+      },
+      {
+        "id": 42,
+        "question": "In the genealogy of the Pandyas, 'Malayadwaja Pandya' is a pivotal figure during the Mahabharatha era. How does the text link his daughter Meenakshi (Thadathagai) to the concept of a 'Soma' (Moon) lineage ruling Madurai?",
+        "answer": "Malayadwaja Pandya's daughter, Meenakshi (Thadathagai), married Lord Sundareswarar (identified as Shiva). Since the Pandyas claim descent from the Moon (Chandra/Soma), and Shiva bears the Moon, their union solidified the 'Soma Kula' (Lunar Dynasty) status of the Madurai rulers."
+      },
+      {
+        "id": 43,
+        "question": "The text mentions a 'Negro' King named Niruthi who patronized the Tamil Sangam. Which of the 'Seven Continents' (Dwipas) is he associated with, and what does this suggest about the racial composition of the ancient Pandyan allies?",
+        "answer": "Niruthi is associated with 'Kusa Dwipa' (Africa/Ethiopia). This suggests that the ancient Pandyan sphere of influence or alliance included African chieftains and that the Sangam assemblies were cosmopolitan, involving diverse races (Dravidian, African, Naga)."
+      }
+    ]
+  },
+  {
+    "category": "X. Cultural History: Music, Medicine & Arts",
+    "questions": [
+      {
+        "id": 44,
+        "question": "In the detailed list of ancient Tamil musical notes (Swaras), the text equates 'Kural' with 'Sa' (Shadjam). Which specific bird or animal call is used as the natural reference for the pitch of 'Ili' (Pa/Panchamam)?",
+        "answer": "The text equates the note 'Ili' (Pa/Panchamam) with the call of the Cuckoo (Kuyil), demonstrating the biomimetic origin of the ancient Tamil musical scale."
+      },
+      {
+        "id": 45,
+        "question": "Regarding Siddha medicine, the text lists 'Kaya Kalpa' methods. One involves 'Mu-ppu'. How is this substance described—is it a herb, a metal, or a mineral salt combination, and what is its primary role in the transmutation of the body?",
+        "answer": "'Mu-ppu' is described as a mineral salt combination (Universal Salt). Its primary role is as a catalyst in alchemy to stabilize mercury and other minerals, and in medicine to rejuvenate the body (Kaya Kalpa), halting aging and extending life."
+      },
+      {
+        "id": 46,
+        "question": "The text refers to the '64 Arts' (Aykalaigal). Apart from standard arts like music and dance, the list includes 'Gaja Pariksha' and 'Ashwa Pariksha'. What specific knowledge do these two arts entail?",
+        "answer": "'Gaja Pariksha' involves the inspection, assessment, and training of elephants, while 'Ashwa Pariksha' involves the same for horses. These were critical military sciences for kings and commanders in the ancient Tamil martial tradition."
+      },
+      {
+        "id": 47,
+        "question": "In the section on astronomy, the text claims Tamil names for planets differ from Sanskrit ones. For instance, 'Arivan' is used for Mercury. What characteristic of the planet or the deity does this Tamil name highlight?",
+        "answer": "'Arivan' means 'The Wise One' or 'Intellect'. This highlights the association of the planet Mercury (Budha) with intelligence, wisdom, and communication, paralleling the Sanskrit attribute but using a pure Tamil root."
+      }
+    ]
+  },
+  {
+    "category": "XI. Revisionist Chronology of Indian Saints",
+    "questions": [
+      {
+        "id": 48,
+        "question": "The text places Adi Sankara's birth in 509 B.C., contradicting the standard 8th Century A.D. date. Which specific 'mutts' (monastic centers) does it claim he founded to unify the six sub-sects (Shanmata) of Hinduism?",
+        "answer": "The text claims he founded the four cardinal mutts (Amnaya Peethams) at Sringeri, Dwaraka, Puri (Govardhana), and Joshimath (Jyotirmath), and importantly, the Kanchi Kamakoti Peetham, to unify the worship of Ganapati, Kumara, Vishnu, Shiva, Shakti, and Surya (Shanmata)."
+      },
+      {
+        "id": 49,
+        "question": "Manickavasagar is often placed in the 9th Century A.D. by historians, but this text pushes him back to the time of 'Arimardana Pandya' in the early centuries. How does the text explain his interaction with the 'horses turned to jackals' miracle in this earlier historical context?",
+        "answer": "The text places the miracle during the reign of Arimardana Pandya (c. 3rd Century A.D. in this chronology), asserting that Manickavasagar used funds meant for purchasing cavalry horses to build the Avudaiyarkoil temple, leading Shiva to perform the miracle to save him from the King's wrath."
+      },
+      {
+        "id": 50,
+        "question": "The Alwars are traditionally dated to the 6th-9th Century A.D. However, the text dates Nammalwar to the very beginning of the Kali Yuga (c. 3102 B.C.). How does this drastic re-dating affect the text's narrative of the continuity of Vaishnavism from the Mahabharatha era?",
+        "answer": "By dating Nammalwar to 3102 B.C. (start of Kali Yuga), the text presents the Alwars not as a later 'Bhakti Movement' reaction, but as immediate successors to the Krishna avatar, maintaining an unbroken continuity of Vaishnava devotion from the Dwapara Yuga into the Kali Yuga without a 'dark age' gap."
+      }
+    ]
+  },
+  {
+    "category": "XII. The Solar & Lunar Lineages (North Indian Connection)",
+    "questions": [
+      {
+        "id": 51,
+        "question": "In the genealogy of the Lunar Dynasty, King Yayati is a central figure. The text lists his five sons (Yadu, Turvasu, Druhyu, Anu, Puru). Which son's lineage does the text identify as the ancestors of the 'Yavana' (Greek/Foreign) kings, and how does this link Indian history to the Mediterranean?",
+        "answer": "The text identifies the lineage of **Turvasu** as the ancestors of the Yavanas (Ionians/Greeks). It claims Turvasu migrated westwards, and his descendants established kingdoms in the Mediterranean, thereby linking the Lunar Dynasty directly to Greek history."
+      },
+      {
+        "id": 52,
+        "question": "King Bhagiratha of the Solar Dynasty is famous for bringing the Ganges down. The text offers a rationalized 'engineering' explanation for this myth. What does it suggest Bhagiratha actually did to the river flow?",
+        "answer": "The text suggests Bhagiratha was a great engineer who diverted the course of the Ganges (possibly from the Himalayas or a highland lake) by cutting through mountains and creating canals (represented as Shiva's matted locks taming the flow) to irrigate the dry plains of North India."
+      },
+      {
+        "id": 53,
+        "question": "The text mentions a King 'Khatvanga' of the Solar line who attained liberation in 'one Muhurta' (48 minutes). What event involving the Devas and Asuras led to this specific boon of knowing his remaining lifespan?",
+        "answer": "Khatvanga aided the Devas in a war against the Asuras. When the victorious Devas offered him a boon, he asked to know his remaining lifespan. Upon learning he had only one Muhurta left, he instantly renounced his kingdom and focused his mind on God, attaining liberation."
+      }
+    ]
+  },
+  {
+    "category": "XIII. Strategic & Military History",
+    "questions": [
+      {
+        "id": 54,
+        "question": "The text describes the 'Krauncha Vyuha' (Heron Formation) used in the Mahabharatha war. Which Tamil deity is mythologicaly associated with destroying a 'Krauncha' mountain, and how does the text link this to the military formations of the ancient Tamils?",
+        "answer": "Lord Murugan (Skanda) is associated with destroying the Krauncha mountain (representing the Asura Taraka). The text links this to ancient Tamil military prowess, suggesting the 'Krauncha Vyuha' was a standard formation in Tamil warfare, possibly originating from the tactics used in the wars against the Asuras in Kumari Kandam."
+      },
+      {
+        "id": 55,
+        "question": "In the account of the Kalinga War (Ashoka's era), the text implies a specific maritime reason for the conflict. Why was control of Kalinga crucial for the Mauryan Empire's trade with the Tamil kingdoms and Southeast Asia?",
+        "answer": "Control of Kalinga was crucial because it dominated the eastern coastal trade routes. The text implies the Mauryans needed Kalinga's ports to access the lucrative maritime trade with the Tamil kingdoms (Chola/Pandya) and the resource-rich Southeast Asian regions (Suvarnabhumi)."
+      }
+    ]
+  },
+  {
+    "category": "XIV. Temples & Architecture (Specifics)",
+    "questions": [
+      {
+        "id": 56,
+        "question": "The Thanjavur Big Temple (Brihadeeswarar) is a masterpiece of Chola architecture. The text credits Raja Raja Chola with its construction but mentions a 'Karuvur Devar' as the spiritual guide. What specific miracle is attributed to Karuvur Devar during the installation of the massive Lingam?",
+        "answer": "Karuvur Devar is credited with using a unique adhesive or binding paste (Ashta Bandhanam) to fix the massive Shiva Lingam into the Peetham (base) when standard methods failed, ensuring the structural stability of the main deity."
+      },
+      {
+        "id": 57,
+        "question": "Regarding the Srirangam temple, the text mentions its origin from the 'Ikshvaku' dynasty. How did this 'Ranga Vimana' come into the possession of Vibhishana, and why was it installed in the South instead of Lanka?",
+        "answer": "The Ranga Vimana was the family deity of the Ikshvaku kings (Rama's ancestors). Rama gifted it to Vibhishana after the war. On his way to Lanka, Vibhishana placed it on the ground at Srirangam for a ritual; when he tried to lift it again, it refused to move, choosing to stay in the Tamil land facing South (towards Lanka)."
+      },
+      {
+        "id": 58,
+        "question": "The text describes the 'Chidambaram' temple as representing the 'Akasha' (Sky/Ether) element. What serves as the 'idol' in the Chidambara Rahasyam (Secret of Chidambaram) to represent this formless element?",
+        "answer": "The 'Chidambara Rahasyam' is represented by a curtain of golden bilva leaves; when drawn aside, it reveals empty space (or a formless ether), symbolizing that God is formless and omnipresent (Akasha), rather than a physical idol."
+      }
+    ]
+  },
+  {
+    "category": "XV. Jainism & Buddhism in the Tamil Context",
+    "questions": [
+      {
+        "id": 59,
+        "question": "The text mentions 'Vajra Nandi' establishing a Dravida Sangam in Madurai (c. 470 A.D.). To which religion did Vajra Nandi belong, and what was the primary linguistic contribution of this Sangam despite its sectarian origin?",
+        "answer": "Vajra Nandi was a Jain monk. Despite being sectarian (Jain), this Sangam made massive contributions to Tamil grammar and literature, producing works like the 'Naladiyar' and emphasizing moral ethics (Aram), significantly enriching the language."
+      },
+      {
+        "id": 60,
+        "question": "In the epic 'Manimekalai', the protagonist travels to an island named 'Manipallavam'. Where does the text locate this island, and what crucial object (the Akshaya Patra) did she receive there?",
+        "answer": "The text locates Manipallavam near Northern Sri Lanka (Nainativu). There, Manimekalai received the 'Akshaya Patra' (Inexhaustible Bowl) from the deity Tivatilakai, allowing her to feed the poor endlessly, symbolizing the Buddhist virtue of Dana (charity)."
+      }
+    ]
+  },
+  {
+    "category": "XVI. The Naga & Asura Clans",
+    "questions": [
+      {
+        "id": 61,
+        "question": "The text refers to 'Nagas' not just as snakes but as a distinct human tribe. In the Mahabharatha, Arjuna marries the Naga princess Ulupi. How does the text describe the geographical location of her kingdom, connecting it to the Ganges or the Netherworld (Patala)?",
+        "answer": "The text describes the Naga kingdom (Patala) not as a subterranean world but as a region likely in the Ganges delta or possibly further east (Southeast Asia/Nagaland). It treats the Nagas as a maritime or riverine civilization that allied with the Pandavas."
+      },
+      {
+        "id": 62,
+        "question": "Ravana is often called a 'Rakshasa', but the text highlights his mixed lineage. His father Visravas was a Brahmin sage. To which clan did his mother Kaikasi belong, and how does this explain his dual nature of wisdom and aggression?",
+        "answer": "His mother Kaikasi belonged to the Rakshasa (or Asura) clan (daughter of Sumali). This mixed lineage explains Ravana's duality: he possessed the Vedic knowledge and tapas of a Brahmin (from his father) and the aggressive, power-seeking nature of the Rakshasas (from his mother)."
+      }
+    ]
+  },
+  {
+    "category": "XVII. Medieval History & The Nayaks",
+    "questions": [
+      {
+        "id": 63,
+        "question": "Thirumalai Nayak of Madurai is famous for his palace. However, the text mentions a significant contribution to the Meenakshi Temple. What specific architectural feature (a Mandapam) did he construct that is famous for its life-sized musical pillars?",
+        "answer": "He is credited with major expansions, specifically the 'Pudu Mandapam' (New Hall) opposite the eastern tower, known for its exquisite sculptures of the Nayak kings and the musical pillars (though the musical pillars are often in the North Tower corridor, the text links his patronage to these acoustic marvels)."
+      },
+      {
+        "id": 64,
+        "question": "Rani Mangammal of the Nayak dynasty is noted for her infrastructure projects. What specific type of public work (roads/avenues) is she most famously associated with in Tamil Nadu folklore?",
+        "answer": "Rani Mangammal is most famously associated with planting avenues of trees along the highways (Salai) throughout her kingdom to provide shade for travelers, known even today as 'Mangammal Salai'."
+      }
+    ]
+  },
+  {
+    "category": "XVIII. Colonial Encounters",
+    "questions": [
+      {
+        "id": 65,
+        "question": "The text mentions 'Veerapandiya Kattabomman' resisting the British. Upon his refusal to pay tax, he uttered a famous dialogue questioning the British right to collect revenue. What agricultural logic did he use in this dialogue (referring to rain and crops)?",
+        "answer": "Kattabomman famously asked, 'Does the sky rain? Do the lands yield?' (Vanam poligiratha? Bhumi vilaigiratha?), challenging the British claim to tax a land where they did not labor, sow, or cultivate, asserting that the harvest belonged to the sons of the soil."
+      },
+      {
+        "id": 66,
+        "question": "Regarding the Vellore Mutiny of 1806, the text identifies a specific religious insensitivity by the British as the trigger. What change in the soldiers' uniform (turbans/marks) caused the Hindu and Muslim sepoys to revolt?",
+        "answer": "The British introduced a new turban (resembling a European hat) with a leather cockade (offending both Hindus and Muslims) and prohibited soldiers from wearing religious marks (Vibhuti/Namam) or beards on duty, triggering the revolt."
+      }
+    ]
+  },
+  {
+    "category": "XIX. Modern Tamil Literature",
+    "questions": [
+      {
+        "id": 67,
+        "question": "Subramania Bharati is hailed as a 'Mahakavi'. In his poem 'Panchali Sabadam', whom does he allegorically represent through the character of Draupadi (Panchali) suffering in the court of the Kauravas?",
+        "answer": "In 'Panchali Sabadam', Bharati allegorically represents 'Mother India' (Bharata Mata) as Draupadi, enslaved and humiliated by the British (represented by the Kauravas), while the helpless Pandavas represent the Indian populace or moderate leaders unable to act."
+      },
+      {
+        "id": 68,
+        "question": "V.O. Chidambaram Pillai (Kappalottiya Tamizhan) founded the 'Swadeshi Steam Navigation Company'. What was the primary political and economic objective of this venture against the British Steam Navigation Company?",
+        "answer": "The primary objective was to break the British monopoly on maritime trade and prove that Indians could manage modern technology and commerce independently ('Swadeshi'), thereby hitting the colonial power economically while boosting national pride."
+      }
+    ]
+  },
+  {
+    "category": "XX. Siddha Philosophy & Mysticism",
+    "questions": [
+      {
+        "id": 69,
+        "question": "Ramalinga Adigal (Vallalar) preached 'Samarasa Suddha Sanmargam'. What is his unique concept of the 'Body' (Deham), specifically the transition from a physical body to a 'Light Body' (Oli Udambu)?",
+        "answer": "Vallalar preached that through compassion (Jeevakarunyam) and devotion, the physical mortal body (Sthula Deham) can be transmuted first into a 'Golden Body' (Swarna Deham) and finally into an immortal 'Light Body' (Oli Udambu/Pranava Deham) that casts no shadow and is deathless."
+      },
+      {
+        "id": 70,
+        "question": "The Siddha Bogar is credited with creating the idol of Lord Murugan at Palani. What unique amalgam (Navapashanam) did he use, and why is this material considered medically significant for devotees?",
+        "answer": "Bogar created the idol using 'Navapashanam', an amalgam of nine poisonous minerals/herbs solidified into stone. It is considered medically significant because the milk/water poured over it (Abhishekam) absorbs trace medicinal properties, curing diseases of the devotees who consume it."
+      }
+    ]
+  },
+  {
+    "category": "XXI. Comparative Mythology (Egypt/Sumeria)",
+    "questions": [
+      {
+        "id": 71,
+        "question": "The text suggests a linguistic link between the Tamil 'Sivan' and the Egyptian/Sumerian 'Si-ba' or 'Siba'. What attributes (Red One, Bull Rider) are common to both deities in this comparative analysis?",
+        "answer": "The text links 'Sivan' (the Red One/Semmeni) to 'Siba' or similar ancient deities who were associated with redness (Ruddy complexion), the bull (Nandi/Apis), and fertility/destruction, suggesting a common prehistoric root for Shiva worship in Sumeria and Tamil Nadu."
+      },
+      {
+        "id": 72,
+        "question": "How does the text interpret the name 'Menes' (the first Pharaoh of Egypt) in relation to the Tamil Pandyan title 'Meenavan'?",
+        "answer": "The text proposes that 'Menes', the unifier of Egypt, is a corruption of the Tamil title 'Meenavan' (The Fish/Pandya King), suggesting that early Egyptian dynastic founders were migrants from the Pandyan kingdom (Mina Desam) after the deluge."
+      }
+    ]
+  },
+  {
+    "category": "XXII. The Lost Lemuria Geography",
+    "questions": [
+      {
+        "id": 73,
+        "question": "If 'Then Madurai' was the first capital, where does the text locate the 'Pahruli River' in relation to the current Kanyakumari? Was it north or south, and what happened to the 'Mountain of the Bull' (Idarniyum Malai) nearby?",
+        "answer": "The text locates the Pahruli River south of the current Kanyakumari, in the submerged land. The 'Mountain of the Bull' (Idarniyum Malai/Kumari Mountain) was also located there and was submerged during the 'Kadalkol' (deluge) that destroyed the First Sangam."
+      },
+      {
+        "id": 74,
+        "question": "The text mentions 'Ezhu Thenga Nadu' (Seven Coconut Lands). How does this agricultural description challenge the notion that Kumari Kandam was merely a mythical or primitive land?",
+        "answer": "The specific naming of administrative divisions based on agriculture (Coconut Lands, Palmyrah Lands) implies a highly organized, agrarian society with distinct economic zones, challenging the idea of it being a primitive or purely mythical realm, suggesting instead a developed civilization."
+      }
+    ]
+  },
+  {
+    "category": "XXIII. Tamil Identity & Language",
+    "questions": [
+      {
+        "id": 75,
+        "question": "The text asserts that 'Tamil' is the root of the 'Pancha Dravida' languages. Which specific language does it claim branched off from Tamil due to the influence of the sage Kanva near the Andhra region?",
+        "answer": "The text claims that 'Telugu' branched off from Tamil. It attributes this linguistic divergence to the influence of Sage Kanva (Kanva Rishi) in the northern border regions (Andhra), evolving a distinct dialect that became Telugu."
+      },
+      {
+        "id": 76,
+        "question": "According to the text, what is the significance of the sound 'Om' in Tamil (Ohm)? How does it relate to the Pranava Mantra taught by Murugan to Shiva?",
+        "answer": "The text regards 'Om' (Ohm) not just as a Sanskrit mantra but as the primordial Tamil sound (Pranava). It asserts that Murugan expounded the deep, original Tamil meaning of this sound to his father Shiva (at Swamimalai), implying the Tamil origin of Vedic sonic wisdom."
+      }
+    ]
+  },
+  {
+    "category": "XXIV. Miscellaneous Historical Curiosities",
+    "questions": [
+      {
+        "id": 77,
+        "question": "The text mentions a 'Colossus' statue in the context of global sun worship. How does it compare the 'Sun Temple of Konark' to the 'Colossus of Rhodes' in terms of their dedication?",
+        "answer": "Both are identified as massive monuments dedicated to the Sun God (Surya/Helios). The text compares them to establish a global belt of Sun worship cultures (Suryavamsa influence) stretching from India to Greece (Krauncha Dwipa)."
+      },
+      {
+        "id": 78,
+        "question": "In the list of '18 Puranas', the text classifies them into Satvika, Rajasika, and Tamasika. Which category does the 'Vishnu Purana' fall into, and what does this imply about its authority in Vaishnavism?",
+        "answer": "The 'Vishnu Purana' is classified as 'Satvika' (Pure/Truthful). This classification implies it has the highest authority in Vaishnavism, being free from passion (Rajas) or ignorance (Tamas), and thus considered the most reliable source for Dharma."
+      }
+    ]
+  },
+  {
+    "category": "XXV. Advanced Genealogy: The Lunar Line",
+    "questions": [
+      {
+        "id": 79,
+        "question": "King Bharata (son of Dushyanta) is a key figure in the Lunar Dynasty. The text mentions he adopted 'Bharadwaja' (Vitatha) as his heir. Why did Bharata disqualify his own biological sons?",
+        "answer": "Bharata disqualified his biological sons (or they died/were rejected by their mothers due to the King's disappointment) because he deemed them unworthy or incapable of ruling. He adopted Bharadwaja (a Brahmin sage's son) to ensure a capable successor, prioritizing merit over birth."
+      },
+      {
+        "id": 80,
+        "question": "The text traces the ancestry of Krishna back to Yadu. How does Yadu's exclusion from the throne by his father Yayati lead to the formation of the 'Yadava' republics rather than a single monarchy?",
+        "answer": "Yayati cursed/excluded Yadu from the primary throne (Hastinapura) for refusing to exchange his youth. Consequently, Yadu's descendants (Yadavas) did not inherit the central imperial right but formed widespread, independent confederacies or republics (Sanghas) across Mathura and Dwarka."
+      }
+    ]
+  },
+  {
+    "category": "XXVI. Chronology of the Kali Yuga",
+    "questions": [
+      {
+        "id": 81,
+        "question": "The text states the Kali Yuga began in 3102 B.C. What specific astronomical alignment (conjunction of planets) does the text cite as the marker for this epoch?",
+        "answer": "The text cites a major conjunction of the seven planets (Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn) near the star Revati (Zeta Piscium) or at the beginning of Mesha (Aries) as the marker for the start of Kali Yuga on February 18, 3102 B.C."
+      },
+      {
+        "id": 82,
+        "question": "According to the text, the 'Vikrama Era' starts in 57 B.C. Which King is this era named after, and what specific military victory over the 'Sakas' does it commemorate?",
+        "answer": "The era is named after King Vikramaditya of Ujjain. It commemorates his decisive victory over the invading 'Sakas' (Scythians), marking a restoration of dharma and local sovereignty."
+      }
+    ]
+  },
+  {
+    "category": "XXVII. Ancient Weapons & Warfare",
+    "questions": [
+      {
+        "id": 83,
+        "question": "The text mentions the 'Brahmastra' as a weapon of mass destruction. In the context of the Ramayana, against whom did Rama refrain from using it, and against whom did he finally deploy it?",
+        "answer": "Rama refrained from using it against ordinary soldiers to avoid collateral damage. He finally deployed it against Ravana (specifically to pierce his chest/heart) in the final duel, as Ravana was protected by boons against conventional weapons."
+      },
+      {
+        "id": 84,
+        "question": "The 'Narayanastra' used by Ashwatthama in the Mahabharatha had a unique counter-measure. How did the Pandava army survive this weapon, and what does this suggest about the weapon's trigger mechanism?",
+        "answer": "The Pandava army survived by dropping their weapons and surrendering (bowing down) to the missile. This suggests the weapon was triggered by aggression or armed resistance; it spared those who were unarmed or submissive."
+      }
+    ]
+  },
+  {
+    "category": "XXVIII. Women in History",
+    "questions": [
+      {
+        "id": 85,
+        "question": "Queen Mangammal is a prominent later ruler. The text mentions her regency on behalf of her grandson. What was the name of this grandson, and which dynasty's continuity did she ensure?",
+        "answer": "Her grandson was Vijayaranga Chokkanatha Nayak. By acting as Regent, she ensured the continuity of the Madurai Nayak dynasty during a critical period of minority rule."
+      },
+      {
+        "id": 86,
+        "question": "Karaikkal Ammaiyar is one of the 63 Nayanmars. How does the text describe her transformation from a beautiful woman (Punitavati) to a skeletal form (Pei)? What was her motivation for seeking this form?",
+        "answer": "She prayed to Shiva to strip her of her beauty and give her a skeletal, demon-like form (Pei) after her husband abandoned her (fearing her divinity). Her motivation was to worship Shiva in the cremation grounds of Thiruvalangadu without the burden of worldly flesh or societal expectations."
+      }
+    ]
+  },
+  {
+    "category": "XXIX. Foreign Travellers & Records",
+    "questions": [
+      {
+        "id": 87,
+        "question": "The text mentions Megasthenes, the Greek ambassador. Which Mauryan Emperor's court did he visit, and what is the name of the book he wrote that confirms the existence of the Pandya kingdom (Pandaia)?",
+        "answer": "Megasthenes visited the court of Chandragupta Maurya. His book is 'Indica', which famously mentions the southern kingdom of 'Pandaia' ruled by a woman (referencing the Meenakshi/Thadathagai legends) and its pearls."
+      },
+      {
+        "id": 88,
+        "question": "The Chinese pilgrim Hiuen Tsang (Xuanzang) visited Kanchipuram. Which Pallava King was ruling at that time, and what does the text say about the state of Buddhism in Kanchi during his visit?",
+        "answer": "Hiuen Tsang visited during the reign of Narasimhavarman I (Mamalla). The text notes that while he saw hundreds of Buddhist monasteries (and the stupa built by Ashoka), Buddhism was already in decline compared to the rising Saiva and Vaishnava Bhakti movements."
+      }
+    ]
+  },
+  {
+    "category": "XXX. Geographical Features & Myths",
+    "questions": [
+      {
+        "id": 89,
+        "question": "The 'Setu' (Adam's Bridge) is described as a man-made structure. Who were the two Vanara architects credited with its engineering, and what property of the stones used is highlighted in the mythology?",
+        "answer": "The architects were Nala and Neela. The mythology highlights that the stones they used were 'floating stones' (made buoyant by the power of Rama's name or their specific porous nature), allowing them to construct a bridge across the ocean."
+      },
+      {
+        "id": 90,
+        "question": "The text refers to the 'Saptarishi' constellation (Ursa Major). How is the movement of this constellation used in the text to calculate the 'Saptarishi Era' for Kashmiri history?",
+        "answer": "The text asserts the Saptarishi constellation stays in each Nakshatra (Lunar Mansion) for 100 years. By tracking its position (e.g., in Magha at the start of Kali Yuga), the text calculates the 'Saptarishi Era' cyclically (2,700 years per cycle) to date Kashmiri kings."
+      }
+    ]
+  },
+  {
+    "category": "XXXI. The Sangam Literature Details",
+    "questions": [
+      {
+        "id": 91,
+        "question": "The 'Purananuru' contains poems praising chieftains. Who is the poet 'Kapilar', and which specific Velir chieftain was his patron and close friend, leading to Kapilar's fasting to death (Vadakkiruthal) after the chieftain's demise?",
+        "answer": "Kapilar was a Brahmin poet of the Sangam age. His patron and close friend was Vel Pari (of Parambu Malai). After Pari was killed by the three crowned kings, Kapilar ensured the marriage of Pari's daughters and then committed ritual suicide (Vadakkiruthal) in grief."
+      },
+      {
+        "id": 92,
+        "question": "The epic 'Silappathikaram' details the three Tamil capitals. Which city is described as the setting for the dance of Madhavi and the festival of Indra, and what was its ultimate fate?",
+        "answer": "Poompuhar (Kaveripoompattinam) is the setting for Madhavi's dance and the Indra Vizha. Its ultimate fate was destruction by a massive tsunami/sea deluge (Kadalkol), triggered (according to legend) by the King failing to celebrate the Indra festival."
+      }
+    ]
+  },
+  {
+    "category": "XXXII. Philosophical Schools",
+    "questions": [
+      {
+        "id": 93,
+        "question": "The text discusses 'Advaita' (Non-dualism). How does Adi Sankara's interpretation of 'Maya' (Illusion) differ from the 'Buddhist' concept of 'Sunyata' (Void) according to the text's comparative analysis?",
+        "answer": "The text distinguishes them by stating that Sankara's 'Maya' posits a temporary, relative reality that veils the ultimate Truth (Brahman), whereas Buddhist 'Sunyata' (in some interpretations) is seen as a void or emptiness without a permanent substrate like the Atman/Brahman."
+      },
+      {
+        "id": 94,
+        "question": "Ramanuja's 'Vishishtadvaita' (Qualified Non-dualism) is mentioned. What is the specific relationship between the 'Jivatma' (Soul) and 'Paramatma' (God) defined in this philosophy (Sharira-Shariri Bhava)?",
+        "answer": "Ramanuja defines the relationship as 'Sharira-Shariri Bhava': the Jivatma (and the world) is the body (Sharira) of God, and God (Paramatma) is the Soul/Indweller (Shariri) of that body. They are inseparable but distinct, unlike the complete oneness of Advaita."
+      }
+    ]
+  },
+  {
+    "category": "XXXIII. Ancient Trade & Economy",
+    "questions": [
+      {
+        "id": 95,
+        "question": "The text alludes to Roman trade with the Pandyas. What specific commodities (Pearls, Spices) were the primary exports from the port of Korkai, and what Roman coins found in Tamil Nadu evidence this trade?",
+        "answer": "The primary exports were Pearls (from the Gulf of Mannar) and Spices (Pepper). Roman gold and silver coins (aurei and denarii) found in abundance in Tamil Nadu serve as evidence of this extensive trade balance in India's favor."
+      },
+      {
+        "id": 96,
+        "question": "Reference is made to the 'Guilds' (Manigramam/Ainnurruvar). What role did these merchant guilds play in spreading Tamil culture to Southeast Asia (Srivijaya/Malaya)?",
+        "answer": "These merchant guilds equipped their own fleets and private armies (Velaikkarar). They established trade settlements in Southeast Asia, funded temples, and supported local inscriptions, effectively acting as agents of Tamil cultural and religious expansion alongside their commercial activities."
+      }
+    ]
+  },
+  {
+    "category": "XXXIV. The Vijayanagara & Nayak Period",
+    "questions": [
+      {
+        "id": 97,
+        "question": "Krishnadevaraya wrote 'Amuktamalyada'. Who is the subject of this Telugu epic, and how does it connect the Vijayanagara dynasty to the Tamil Alwar tradition?",
+        "answer": "The subject is Andal (Goda Devi), the Tamil female Alwar. By writing her hagiography in Telugu, Krishnadevaraya legitimized his dynasty's devotion to Sri Vaishnavism and bridged the cultural gap between his Telugu/Kannada origins and his Tamil subjects."
+      },
+      {
+        "id": 98,
+        "question": "The Nayaks introduced the 'Palayakkarar' (Poligar) system. How did this feudal administrative structure help in maintaining order and defense in the Tamil country after the fall of the great empires?",
+        "answer": "The Palayakkarar system divided the kingdom into 72 Palayams (military stations). Each Palayakkarar was responsible for collecting taxes, maintaining a standing army for the King, and policing their specific territory, ensuring decentralized defense and stability."
+      }
+    ]
+  },
+  {
+    "category": "XXXV. Modern India & Freedom Struggle",
+    "questions": [
+      {
+        "id": 99,
+        "question": "The text lists 'Vanchinathan' as a freedom fighter. Which specific British official did he assassinate at Maniyachi Junction, and what was the immediate motivation cited (treatment of V.O.C.)?",
+        "answer": "Vanchinathan assassinated Robert Ashe (Collector of Tirunelveli). The motivation was the harsh treatment and imprisonment of V.O. Chidambaram Pillai (V.O.C.) and the suppression of the Swadeshi Steam Navigation Company."
+      },
+      {
+        "id": 100,
+        "question": "Pasumpon Muthuramalinga Thevar is a key figure in the text. What was his political relationship with Subhash Chandra Bose, and which military unit did he help mobilize in South India?",
+        "answer": "Muthuramalinga Thevar was a close ally of Subhash Chandra Bose (Netaji). He was instrumental in mobilizing support for the 'Forward Bloc' in Tamil Nadu and recruiting Tamil soldiers for the 'Indian National Army' (INA) to fight against the British."
+      }
+    ]
+  },
+  {
+    "category": "XXXVI. The Eighteen Siddhas (Specifics)",
+    "questions": [
+      {
+        "id": 101,
+        "question": "Among the 18 Siddhas, 'Pambatti Siddhar' is known for his poetry. To whom are his poems addressed (the Snake), and what is the philosophical symbolism of the 'Snake' in his Kundalini yoga teachings?",
+        "answer": "His poems are addressed to a 'Snake' (Aadu Pambe - Dance, O Snake). Philosophically, the Snake symbolizes the 'Kundalini Shakti' coiled at the base of the spine. His verses guide the awakening of this energy to rise through the chakras."
+      },
+      {
+        "id": 102,
+        "question": "Agastya is credited with many medical texts. What is the specific focus of the text 'Agastya Rana Nool' (Surgery/Wounds), and what does it reveal about ancient Tamil surgical knowledge?",
+        "answer": "'Agastya Rana Nool' focuses on the treatment of deep wounds, cuts, and surgery. It reveals that ancient Tamils had advanced knowledge of anatomy, surgical instruments, and antiseptic herbal applications for treating battle injuries."
+      }
+    ]
+  },
+  {
+    "category": "XXXVII. Vedic-Tamil Synthesis",
+    "questions": [
+      {
+        "id": 103,
+        "question": "The text claims the 'Pranava' (Om) originated in the South. How does it link the structure of the Tamil letter 'Om' (distinct from the Sanskrit script) to the philosophy of the 'Pillaiyar Suzhi' (Vinayaka's mark)?",
+        "answer": "The text argues that the Tamil script for 'Om' and the 'Pillaiyar Suzhi' (a curve and a line used to start writing) are primal representations of the sound. It suggests the Tamil 'Om' visually represents the creation cycle (creation, preservation, dissolution) more intuitively than the Devanagari script."
+      },
+      {
+        "id": 104,
+        "question": "Regarding the 'Thirumandiram' by Thirumoolar, the text calls it a 'Tamil Veda'. How many verses does it contain, and what is its central thesis regarding the identity of 'Anbe Sivam' (Love is God)?",
+        "answer": "The 'Thirumandiram' contains 3,000 verses. Its central thesis 'Anbe Sivam' asserts that Love and God (Shiva) are not different; realizing absolute Love is the same as realizing the Divine, synthesizing Bhakti (devotion) with Jnana (knowledge)."
+      }
+    ]
+  },
+  {
+    "category": "XXXVIII. Lost Cities & Underwater Archaeology",
+    "questions": [
+      {
+        "id": 105,
+        "question": "The text discusses the submerged city of 'Poompuhar'. What specific archaeological evidence (wharves/reservoirs) does it cite to prove Poompuhar was a major international port before its destruction?",
+        "answer": "The text cites the discovery of brick water reservoirs, wharves, and lead ingots (from Rome) underwater and along the coast. This evidence supports the literary description of Poompuhar as a bustling international port with separate quarters for foreign traders."
+      },
+      {
+        "id": 106,
+        "question": "Dwarka is also mentioned as submerged. How does the text correlate the date of Dwarka's submergence (c. 3100 B.C.) with the submergence of the Second Sangam capital 'Kapadapuram' in the South?",
+        "answer": "The text correlates them as simultaneous or related seismic events. It suggests that the same tectonic activity or sea-level rise that swallowed Krishna's Dwarka in the west also triggered the tsunami/deluge that destroyed Kapadapuram in the south, marking the transition to the Kali Yuga."
+      }
+    ]
+  },
+  {
+    "category": "XXXIX. The Chola Navy",
+    "questions": [
+      {
+        "id": 107,
+        "question": "Rajendra Chola's naval expedition to 'Kadaram' is a high point. What specific logistical challenge (transporting elephants) does the text mention regarding the Chola ships, and what does this say about their naval engineering?",
+        "answer": "The text mentions the Chola navy's ability to transport live war elephants across the Bay of Bengal. This implies advanced naval engineering capabilities to build massive, stable ships (multi-decked hulls) capable of carrying heavy livestock and supplies for months at sea."
+      },
+      {
+        "id": 108,
+        "question": "The text lists 'Srivijaya' as a target of Chola raids. Why did the Cholas attack this maritime empire—was it for territorial expansion or to control a specific trade route choke point (Malacca Strait)?",
+        "answer": "The attack was primarily to control the trade route choke point (Malacca Strait). Srivijaya was taxing or blocking Tamil merchant guilds trading with China. The Cholas attacked to enforce 'freedom of navigation' and secure the lucrative trade route, rather than for permanent territorial annexation."
+      }
+    ]
+  },
+  {
+    "category": "XL. Literary Genres in Tamil",
+    "questions": [
+      {
+        "id": 109,
+        "question": "The 'Parani' is a specific war genre in Tamil literature. 'Kalingattuparani' is the most famous example. What specific condition must a King fulfill (killing 1000 elephants) to be the hero of a Parani?",
+        "answer": "To be the hero of a 'Parani', a King (or his general) must have killed 1,000 male war elephants on the battlefield. 'Kalingattuparani' celebrates Kulothunga Chola I (and his general Karunakara Tondaiman) for achieving this feat in the Kalinga war."
+      },
+      {
+        "id": 110,
+        "question": "The 'Ula' genre describes a deity or king in procession. How does 'Moovar Ula' by Ottakoothar serve as a historical document for three generations of Chola kings (Vikrama, Kulothunga II, Rajaraja II)?",
+        "answer": "'Moovar Ula' (Three Ulas) describes the procession of three successive Chola kings. It serves as a historical document by detailing their specific titles, conquests, queens, and court culture, providing a contemporary poetic record of the dynasty's peak and gradual decline."
+      }
+    ]
+  },
+  {
+    "category": "XLI. Women Saints & Poets",
+    "questions": [
+      {
+        "id": 111,
+        "question": "Andal is unique among Alwars as a woman. Her work 'Nachiyar Tirumozhi' contains the 'Varanam Aayiram' verses. What distinct dream (marriage to the Lord) does she describe in these verses, and how is it used in Tamil weddings today?",
+        "answer": "In 'Varanam Aayiram', Andal describes her dream of marrying Lord Vishnu (Ranganatha), detailing the rituals (elephants, canopy, sacred fire). These verses are sung in Tamil Brahmin/Vaishnava weddings today as a blessing, treating the bride as Andal and the groom as Vishnu."
+      },
+      {
+        "id": 112,
+        "question": "Avvaiyar is a name attributed to multiple poetesses. How does the text distinguish the 'Sangam Avvaiyar' (friend of Adhiyaman) from the later 'Religious Avvaiyar' (author of Vinayagar Agaval)?",
+        "answer": "The text distinguishes them by context and content: the Sangam Avvaiyar wrote secular heroic poetry (Purananuru) and feasted with chieftain Adhiyaman (who gave her the gooseberry). The later Religious Avvaiyar wrote devotional/ethical works (Aathichudi, Vinayagar Agaval) and is associated with miracles and the Saiva revival."
+      }
+    ]
+  },
+  {
+    "category": "XLII. Temple Agamas & Rituals",
+    "questions": [
+      {
+        "id": 113,
+        "question": "The text mentions the 'Pancharatra' and 'Vaikhanasa' Agamas for Vishnu temples. Which Agama is followed in the Tirumala Tirupati temple, and how does it differ in terms of the priest's lineage requirement?",
+        "answer": "Tirumala follows the 'Vaikhanasa' Agama. This system requires priests to be born into specific Vaikhanasa families (hereditary lineage), whereas Pancharatra allows for initiation (Diksha) of priests from the wider Brahmin community."
+      },
+      {
+        "id": 114,
+        "question": "For Shiva temples, the 'Kamika' and 'Karana' Agamas are common. What is the specific significance of the 'Pradosham' ritual (13th day of the fortnight) mentioned in the text regarding Shiva's consumption of poison?",
+        "answer": "'Pradosham' commemorates the time Shiva swallowed the Halahala poison to save the universe. Rituals performed during this twilight window (4:30-6:00 PM) are believed to be highly auspicious for removing sins and debts, as Nandi (the Bull) is especially revered at this time."
+      }
+    ]
+  },
+  {
+    "category": "XLIII. The Imperial Pandyas",
+    "questions": [
+      {
+        "id": 115,
+        "question": "Jatavarman Sundara Pandyan I (c. 1251 A.D.) is known for gilding the temple roofs with gold. Which specific temple (Srirangam or Chidambaram) did he cover with gold using the plunder from his conquests?",
+        "answer": "He famously gilded the Vimana (roof) of the Srirangam Ranganathaswamy temple (and also Chidambaram) with gold. The text claims this gold was obtained from his conquest of the Cholas and the Hoysalas, marking the Pandyan resurgence."
+      },
+      {
+        "id": 116,
+        "question": "The text mentions the interaction between the Pandyas and the Chinese (Ming Dynasty). What specific gift (a giraffe?) or tribute did the Pandyan King send to the Chinese Emperor, according to historical records cited?",
+        "answer": "While the giraffe is often associated with African envoys, the text notes Pandyan envoys sent fine pearls, gems, and textiles to the Ming Court. (Note: The prompt mentions 'giraffe' which is a common confusion with the Sultan of Bengal's gift; the text usually focuses on Pearls/Gems for Pandyas)."
+      }
+    ]
+  },
+  {
+    "category": "XLIV. The Pallava Architecture",
+    "questions": [
+      {
+        "id": 117,
+        "question": "Mahendravarman I was a pioneer of rock-cut temples. How does the text describe his transition from using perishable materials (brick/wood) to 'stone' (Mandagapattu inscription), and which religion did he convert to from Jainism?",
+        "answer": "Mahendravarman I declared he created a temple for Brahma, Vishnu, and Shiva without using bricks, timber, metal, or mortar (i.e., carving living rock). He converted from Jainism to Saivism under the influence of the saint Appar (Thirunavukkarasar)."
+      },
+      {
+        "id": 118,
+        "question": "The 'Shore Temple' at Mahabalipuram is built by Rajasimha. Unlike the earlier rock-cut Rathas, this is a structural temple. What specific environmental challenge (sea erosion) does the text mention regarding its longevity?",
+        "answer": "The text notes that being a structural temple on the very edge of the sea, it faces constant salt spray and erosion. Rajasimha built it with hard granite blocks to withstand this, though distinct erosion is visible compared to the monoliths."
+      }
+    ]
+  },
+  {
+    "category": "XLV. Colonization & Diasporas",
+    "questions": [
+      {
+        "id": 119,
+        "question": "The text mentions the 'Chettiars' (Nattukottai Chettiars) and their role in Southeast Asia. How did their banking system and temple-building activities in Burma and Malaysia contribute to the preservation of Tamil culture abroad?",
+        "answer": "The Chettiars acted as the primary bankers for agricultural and colonial development in Burma/Malaysia. A portion of their profits (Mahimai) was strictly dedicated to building Murugan/Shiva temples, which became community hubs, schools, and cultural centers for the Tamil diaspora."
+      },
+      {
+        "id": 120,
+        "question": "Indentured labor (Coolies) took many Tamils to Fiji, Mauritius, and the Caribbean. How does the text describe the preservation of 'Mariamman' worship among these displaced communities despite their disconnection from the homeland?",
+        "answer": "Despite the disconnection, these communities carried the oral traditions of 'Mariamman' worship (Village Goddess). The text notes they built simple shrines that evolved into major temples, using this worship to maintain their identity and communal cohesion against colonial oppression."
+      }
+    ]
+  }
+]

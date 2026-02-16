@@ -151,7 +151,7 @@ app.get('/health', (req, res) => {
 app.listen(PORT, () => {
   console.log('');
   console.log('╔═══════════════════════════════════════════════════════╗');
-  console.log('║  🏛️  Bharata Vamsavali QA Platform');
+  console.log('║  🏛️  Bharatha Vamsavali QA Platform');
   console.log('║');
   console.log(`║  🌐 App:  http://localhost:${PORT}`);
   console.log('║  📚 Data: 1008 Questions Loaded');

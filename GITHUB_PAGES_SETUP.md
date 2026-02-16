@@ -1,6 +1,6 @@
 # 🌐 GitHub Pages Deployment - Complete Guide
 
-Deploy your Bharata Vamsavali QA to GitHub Pages in 10 minutes!
+Deploy your Bharatha Vamsavali QA to GitHub Pages in 10 minutes!
 
 ---
 
@@ -119,7 +119,7 @@ https://YOUR_USERNAME.github.io/bharathavamsavaliqa
 
 1. Visit your live URL
 2. You should see:
-   - ✅ "Bharata Vamsavali QA" title
+   - ✅ "Bharatha Vamsavali QA" title
    - ✅ 1008 questions loaded
    - ✅ Search bar working
    - ✅ Category filters available
@@ -190,7 +190,7 @@ Go to your repo Settings → Pages → see deployment status
 Edit your main `README.md`:
 
 ```markdown
-# 🏛️ Bharata Vamsavali QA
+# 🏛️ Bharatha Vamsavali QA
 
 1008 Q&A pairs on Ancient Indian History
 
@@ -282,7 +282,7 @@ git push origin main
 
 ✅ Green checkmark in GitHub Settings → Pages
 ✅ Live URL works: `https://YOUR_USERNAME.github.io/bharathavamsavaliqa`
-✅ Page title shows: "Bharata Vamsavali QA"
+✅ Page title shows: "Bharatha Vamsavali QA"
 ✅ 1008 questions load
 ✅ Search works
 ✅ Filters work
@@ -359,7 +359,7 @@ But GitHub Pages domain is free and works great! 🎉
 
 ## ✨ Done!
 
-Your **Bharata Vamsavali QA** is now:
+Your **Bharatha Vamsavali QA** is now:
 - ✅ Live on the internet
 - ✅ Accessible 24/7
 - ✅ Fast and responsive

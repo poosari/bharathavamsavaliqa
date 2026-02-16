@@ -56,7 +56,7 @@ http://localhost:3000
 ```
 
 You should see:
-- 🏛️ Title: "Bharata Vamsavali QA"
+- 🏛️ Title: "Bharatha Vamsavali QA"
 - 📚 1008 Questions loaded
 - 🔍 Search bar
 - 📂 Category filter
@@ -285,7 +285,7 @@ npm start
 
 ## 🎉 You're Ready!
 
-Your **new self-contained Bharata Vamsavali QA app** is ready to:
+Your **new self-contained Bharatha Vamsavali QA app** is ready to:
 1. Run locally
 2. Deploy to web
 3. Scale to millions of users
